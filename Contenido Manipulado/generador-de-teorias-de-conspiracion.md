@@ -6,6 +6,7 @@ Volver a codificar las noticias falsas de modo que se muestre los mecanismos con
 
 El código es el siguiente. A este se le agregó un botón para que el usuario de la página pueda activar el algoritmo, a partir de lo cual en la pantalla se le devuelve el texto generado. Una vez creado el primer texto, el usuario puede hacer clic en el botón para seguir recibiendo distintos textos.  
 
+
 <!DOCTYPE html>
 <html>
     <head>
