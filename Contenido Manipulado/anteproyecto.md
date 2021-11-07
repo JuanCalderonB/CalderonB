@@ -9,7 +9,7 @@
 
 
 # Título
-Contenido Manipulado: exploración de poesía digital a partir de noticias falsas
+Contenido Manipulado: exploración de la desinformación en el entorno digital a partir de la literatura electrónica
 
 # Abstract
 En tiempos de incertidumbre, como el contexto actual de la pandemia del COVID-19, proliferan los bulos o noticias falsas, las cuales amplían su rango de diseminación en redes sociales y de mensajería instantánea que son propios de la vida contemporánea. ¿Qué se puede hacer desde la creación con medios digitales? Este proyecto se concentra en reflexionar respecto a las noticias falsas como fenómeno social y tecnológico: su concepción, producción y distribución, para luego explorar la posibilidad de su recomposición a partir del manejo y gestión de bases de datos. Se trata de un proyecto de creación de poesía  electrónica, específicamente de desarrollo técnico y conceptual de una plataforma digital que combinará textos de las noticias falsas del COVID para crear poemas, con la cual el usuario puede interactuar para sumarse al proceso de creación.
@@ -17,7 +17,7 @@ En tiempos de incertidumbre, como el contexto actual de la pandemia del COVID-19
 El proyecto busca reflexionar, desde la creación a través de medios digitales, sobre el presente y el momento histórico que constituye. En ese sentido, se alinea con otras propuestas de arte/literatura digitales que abordan el contexto actual como los presentes en la exhibición "COVID" desarrollada por la Electronic Literature Organization y publicada en los días de su congreso anual (mayo de 2021) en su web oficial. Es decir, el presente proyecto se incrusta dentro de una tendencia globalizada que lo enmarca. En ese sentido, es importante entender a la pandemia del COVID-19 como un evento productor de textualidades específicas (e imágenes, visualidades, materialidades, y experiencias multimediales, transmediales, etc.) que pueden ser elaboradas con fines estéticos.  
 
 # Palabras clave
-Poesía combinatoria, noticias falsas, escritura no creativa, poesía electrónica, entorno digital
+Poesía combinatoria, bots sociales, desinformación, noticias falsas, escritura no creativa, poesía electrónica, micrrorelato, entorno digital
 
 # Objetivo general
 El proyecto busca explorar la potencialidad de la lengua a partir de la aplicación de operaciones combinatorias a distintos textos en el marco de la tradición de poesía combinatoria. Del mismo modo, busca explorar posibles reformulaciones del concepto de autor ya que la poesía digital incorpora al lector como co-creador. En este caso en particular, podría agregarse un nivel a esta reflexión ya que las noticias falsas, materia textual que sirve de base, se caracterizan por no tener autor conocido. En esa línea,
