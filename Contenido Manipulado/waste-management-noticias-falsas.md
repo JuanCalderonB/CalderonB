@@ -6,7 +6,10 @@ elección de las noticias falsas
 
 Otro punto central en el trabajo de Goldsmith es, como plantea Christopher Schmidt, una propuesta de lectura que termina siendo eje central de la producción poética.
 
-En palabras de Schmidt, Goldsmith "read the newspaper like a book (doggedly left-to-right, rather than scattershot, as one might read a newspaper), and in the process, produced a book" (2008, 26). La lectura como parte del proceso de producción. 
+La elección del material:
+Los objetos con los que Goldsmith trabaja son efímeros y están destinados al cubo de basura, según Schmidt (2006, 27); es decir, y en esto el crítico traza un paralelo con Warhol, el poeta estadodunidense elige efímeros y a veces banales 
+
+En palabras de Schmidt respecto a la obra Day, que es una transcripción de la edición completa del 1 de setiembre de 2000 del New York Times, palabra por palabra, número por número, como si fuera un libro, Goldsmith "read the newspaper like a book (doggedly left-to-right, rather than scattershot, as one might read a newspaper), and in the process, produced a book" (2008, 26). Este proceso de lectura es catalogado por el crítico como uno de consumo como producción: consumption as production (2008, 16). En ese sentido, la lectura opera como una cara del proceso de producción. Y en el caso de Goldsmith funciona como un manejo de los desechos, waste-management, considera Schmidt, en el que el intervalo entre consumo y producción disminuye hasta el punto de desaparecer, es decir, que se evita la transformación estética (2006, 27). Por lo tanto, el producto final del proceso es una transcripción: el material se mantiene intacto, pero su disposición para el lector ha cambiado: es un libro, ya no un periódico, y debe ser leído como poesía, no como material informativo.
 
 De forma análoga, este proyecto se propone leer las noticias falsas como literatura; y, en el proceso, ha producido literatura. 
 Por eso, uno de los procedimientos fundamentales, y que es la base de la transformación de la materia prima, es el etiquetado de noticias falsas a partir de una lectura a la luz de la disciplina de la literatura: las historias que conforman las noticias falsas son consideradas narraciones pertenecientes a tres grandes géneros literarios: el relato distópico, la ciencia ficción y el realismo mágico. 
