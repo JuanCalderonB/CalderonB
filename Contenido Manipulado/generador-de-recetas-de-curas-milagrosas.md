@@ -11,8 +11,11 @@ Ello con el fin de generar una reflexión sobre lo que es la literatura, y a la 
 
 Más adelante en su texto, Navas aborda las obras de los artistas pop Andy Warhol y Roy Lichtenstein como muestras de sampling
 
+
+Desde la teoría del remix, Navas comenta las obras del artista pop Roy Lichtenstein, quien no samplea directamente desde una obra específica, pero se apropiaba o refería en términos de discurso la apariencia de los cómics para sus propios propósitos (2012, 78). Es así que nos alineamos con este planteamiento debido a que este proyecto no referirá específicamente una obra, sino a una modalidad propia de un conjunto de obras, de un género, así como Lichtenstein refiere a características específicas de los cómics. Continúa Navas sobre este artista: "He conceptually remixes the aesthetics of comics with the language of art" (2012, 78). En nuestro caso, conceptualmente nos proponemos remixear las noticias falsas con el lenguaje de la literatura.   
+
 /OJO/
-Desde la teoría del Remix, Navas comenta las obras de los artistas pop Andy Warhol y Roy Lichtenstein. Sobre el primero, que tomaba bienes reconocibles de producción masiva e imágenes de celebridades como Marilyn Monroe y Elvis Presley, plantea que "with 
+Desde la teoría del remix, Navas comenta las obras de los artistas pop Andy Warhol y Roy Lichtenstein. Sobre el primero, que tomaba bienes reconocibles de producción masiva e imágenes de celebridades como Marilyn Monroe y Elvis Presley, plantea que "with this strategy, which often consisted of replicating actual images, therefore sampling from a specific source of pop culture, questioned the art institution" (2012, 78)
 
 /OJO/
 
