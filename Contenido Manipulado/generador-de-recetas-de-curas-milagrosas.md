@@ -38,3 +38,15 @@ En primer lugar, resulta difícil caracterizar de forma definitiva al realismo m
 El primer 
 
 # Oulipo sintético
+
+Este generador de recetas milagrosas producirá textos que tienen la estructura de las noticias falsas. 
+El procedimiento artístico central es el de la permutación de distintos elementos dentro de un gramática fija. 
+Esta permutación seguirá los parámetros de uno de los métodos que siguió el grupo de artistas/escritores Oulipo.
+“El método M+/-n, que se manifiesta en un principio bajo la forma limitada de su versión S+7 (forma que ha dado su nombre al método), consiste en reemplazar las palabras (M) de un texto dado (de calidad literaria o no) por otras del mismo género que las sigan o las precedan en el diccionario, a una distancia variable definida por la cantidad de términos que las separan”  
+
+“El método S+7”, Jean Lescure (2016), 175
+
+
+“El método exige, pues, además de un ejecutante reducido a una función puramente mecánica, un texto cualquiera, elegido o no de entre los que se considera literarios, y un diccionario, vocabulario, glosario o léxico también indistinto” 
+
+“El método S+7”, Jean Lescure (2016), 175
