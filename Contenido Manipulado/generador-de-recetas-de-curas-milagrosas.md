@@ -2,6 +2,16 @@
 
 # Realismo mágico
 
+Existen términos en disputa. Uno de ellos es lo real maravilloso. 
+
+Bajo nuestra concepción del realismo mágico, seguimos la propuesta Fernando Alegría, autor de "Alejo Carpentier: realismo mágico", quien identifica como sinónimos lo real maravilloso y el realismo mágico. 
+
+/OJO/
+Para conclusión de tesis
+Pese a que esta no es una tesis adscrita al campo de la Sociología, existen algunos elementos que convendría estudiar más y que han asomado en nuestra investigación.
+Apunta Gloria Bautista al hablar del realismo mágico: "Cuando estas cualidades mágicas son presentadas en una forma objetiva, aunque no sean explicables por la razón o por la lógica, son reales dentro del contexto cultural americano" (1991, 22). Con eso quisiéramos llamar la atención respecto a lo que esta autora y otros consideran como sustrato cultural del realismo mágico. En esa línea, Miguel Ángel Asturias plantea que en América la realidad y lo maravilloso son inseparables. Las personas se mueven en una mezcla de magia y realidad (citado por Bautista, 1991, 21). Si bien este postulado se enmarca dentro de una discusión de mediados del siglo pasado sobre aquello que tiene como particular el continente americano para aportar a la literatura global, existe una definición cultural relacionada con su tradición prehispánica. En ese sentido, cabrá a un estudio de corte sociológico analizar si las noticias falsas se nutren de este sustrato cultural para ser creadas o para ser difundidas por la comunidad de hispanomericana.     
+/OJO/
+
 # Selective Remix
 
 Eduardo Navas, en su libro Remix Theory: The Aesthetics of Sampling, describe distintos tipos de remix. El que incume a este trabajo es el selective remix, el cual define "the DJ adds to and deletes parts from the original composition, while leaving its spectacular aura intact".
