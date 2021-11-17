@@ -2,11 +2,11 @@
 
 # Realismo mágico
 
-Definir el realismo mágico resulta una tarea sumamente complicada    
-Existen términos en disputa. Uno de ellos es lo real maravilloso. 
+Definir el realismo mágico resulta una tarea sumamente complicada; se ha agrupado históricamente a distintos autores dentro de esa corriente literaria y múltiples teóricos han tratado de definir los límites de esta categoría, con distintos resultados. Sin embargo, para este proyecto recogeremos algunos de los planteamientos de aquellos a quienes consideramos referentes en el campo de la teoría literaria y del estudio de la narrativa latinoamericana del siglo pasado.
+Tal dificultad reside también en la delimitación de las fronteras del realismo mágico frente a otras manifestaciones de lo literario como lo fantástico y lo real maravilloso, siendo el segundo el que acarrea mayores problemas ya que algunas de sus características son intercambiables con las del realismo mágico. Es en ese sentido que, en nuestra concepción del realismo mágico, seguimos la propuesta Fernando Alegría, autor de "Alejo Carpentier: realismo mágico", quien identifica como sinónimos lo real maravilloso y el realismo mágico. 
+De tal forma, como uno de los primeros hitos en la teorización del realismo mágico se encuentra el prólogo de Alejo Carpentier a su libro El reino de este mundo (1949). En ese texto, el escritor cubano afirma que el continente americano posee un misterio inherente y una esencia mágica que denominó lo real maravilloso, un fenómeno propio de América debido a su historia, su mitología y sus gentes, poseedores de una riqueza inexplorada en términos literarios (Bautista, 1991, 20). De acuerdo con Carpentier, lo maravilloso surge de una inesperada alteración de la realidad (el milagro), el cual produce una revelación privilegiada de dicha realidad, y para verbalizar tal dinámica de variación dentro del orden de lo real los escritores magicorrealistas deben encontrar formas de expresión apropiadas (Bautista, 1991, 20).
 
-Bajo nuestra concepción del realismo mágico, seguimos la propuesta Fernando Alegría, autor de "Alejo Carpentier: realismo mágico", quien identifica como sinónimos lo real maravilloso y el realismo mágico. 
-
+Unos pocos años después, el crítico Ángel Flores intentó definir el realismo mágico en su texto "Magic Realism in Spanish American Fiction" (1955), en el que apuntó distintas características que hoy no son identificadas como exclusivas del realismo mágico, como una gran preocupación estilística; sin embargo, reconoce un interés de transformación de lo cotidiano en irreal, lo cual sí se condice con la lectura canónica que manejamos en este proyecto, y concluye que se trata de la auténtica expresión que tanto ha buscado Latinoamérica (Bautista, 1991, 20). 
 Bautista plantea que el escritor magicorrealista "recrea un mundo en el que la magia y la realidad coexisten como si nacieran del interior mismo de las cosas"  (1991, 21)
 Para ello recure a creencias, actitudes y acciones de los personajes que están guiadas por una cosmovisión que incluye lo maravilloso y lo metafísico como parte de la vida cotidiana convirtiendo la realidad en mágica (1991, 21). 
 
