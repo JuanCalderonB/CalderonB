@@ -68,3 +68,10 @@ Esta permutación seguirá los parámetros de uno de los métodos que siguió el
 “El método exige, pues, además de un ejecutante reducido a una función puramente mecánica, un texto cualquiera, elegido o no de entre los que se considera literarios, y un diccionario, vocabulario, glosario o léxico también indistinto” 
 
 “El método S+7”, Jean Lescure (2016), 175
+
+
+Claude Berge plantea "El Oulipo es el anti-azar" (citado por Benabou, 2016, 10)
+
+El Oulipo tiene como una de sus características, según Benabou, la voluntad de reunir en su totalidad del campo literario y la utilización de un instrumento estratégico privilegiado, que podría ser la restricción (contraint) (2016, 11).
+
+En palabras de Benabou, el proyecto consiste en "una tentativa de exploración métodica, sistemática, de las potencialidades de la literatura, o mejor dicho, de la lengua" (2016, 11). Para ello, apunta el autor, se plantea dos tipos de misiones. La primera de ellas de la de inventar estructuras que permitan la producción de obras originales. Para ello se valen de la importación de conceptos matemáticos y recursos combinatorios (como el presente en Cien mil millones de poemas, de Raymond Queneau, que dio inicio al Oulipo). La segunda es la de examinar antiguas obras literarias para encontrar las huellas evidentes o no de la utilización de estructuras, formas o restricciones, para lo cual revisaron obras de distintos tipos, géneros, periodos e idiomas (2016, 11).  
