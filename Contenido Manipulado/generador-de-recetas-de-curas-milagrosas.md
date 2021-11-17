@@ -2,14 +2,22 @@
 
 # Realismo mágico
 
+Definir el realismo mágico resulta una tarea sumamente complicada    
 Existen términos en disputa. Uno de ellos es lo real maravilloso. 
 
 Bajo nuestra concepción del realismo mágico, seguimos la propuesta Fernando Alegría, autor de "Alejo Carpentier: realismo mágico", quien identifica como sinónimos lo real maravilloso y el realismo mágico. 
 
+Bautista plantea que el escritor magicorrealista "recrea un mundo en el que la magia y la realidad coexisten como si nacieran del interior mismo de las cosas"  (1991, 21)
+Para ello recure a creencias, actitudes y acciones de los personajes que están guiadas por una cosmovisión que incluye lo maravilloso y lo metafísico como parte de la vida cotidiana convirtiendo la realidad en mágica (1991, 21). 
+
+Para esta pieza de literatura electrónica, consideraremos como material las propiedades milagrosas que las informaciones catalogadas como falsas por los medios fact-checkers asignan a preparaciones caseras que incluyen plantas tradicionales o a las recetas caseras contra males comunes. 
+
+Ello lo interpretamos a partir de las ideas de Luckmann y Berger en La construcción social de la realidad. Las creencias de la gente determinan lo que es real o irreal, y estas creencias le dan al escritor un sistema de referencias donde él puede presentar la realidad en su texto. 
+
 /OJO/
 Para conclusión de tesis
 Pese a que esta no es una tesis adscrita al campo de la Sociología, existen algunos elementos que convendría estudiar más y que han asomado en nuestra investigación.
-Apunta Gloria Bautista al hablar del realismo mágico: "Cuando estas cualidades mágicas son presentadas en una forma objetiva, aunque no sean explicables por la razón o por la lógica, son reales dentro del contexto cultural americano" (1991, 22). Con eso quisiéramos llamar la atención respecto a lo que esta autora y otros consideran como sustrato cultural del realismo mágico. En esa línea, Miguel Ángel Asturias plantea que en América la realidad y lo maravilloso son inseparables. Las personas se mueven en una mezcla de magia y realidad (citado por Bautista, 1991, 21). Si bien este postulado se enmarca dentro de una discusión de mediados del siglo pasado sobre aquello que tiene como particular el continente americano para aportar a la literatura global, existe una definición cultural relacionada con su tradición prehispánica. En ese sentido, cabrá a un estudio de corte sociológico analizar si las noticias falsas se nutren de este sustrato cultural para ser creadas o para ser difundidas por la comunidad de hispanomericana.     
+Apunta Gloria Bautista al hablar del realismo mágico: "Cuando estas cualidades mágicas son presentadas en una forma objetiva, aunque no sean explicables por la razón o por la lógica, son reales dentro del contexto cultural americano" (1991, 22). Con eso quisiéramos llamar la atención respecto a lo que esta autora y otros consideran como sustrato cultural del realismo mágico. En esa línea, Miguel Ángel Asturias plantea que en América la realidad y lo maravilloso son inseparables. Las personas se mueven en una mezcla de magia y realidad (citado por Bautista, 1991, 21). Si bien este postulado se enmarca dentro de una discusión de mediados del siglo pasado sobre aquello que tiene como particular el continente americano para aportar a la literatura global, existe una definición cultural relacionada con su tradición prehispánica. En ese sentido, cabrá a un estudio de corte sociológico analizar si las noticias falsas se nutren de este sustrato cultural para ser creadas o para ser difundidas por la comunidad de hispanomericana. Como dice Bautista respecto a los autores del realismo mágico: "Religión, mitos, leyendas y folklore (...) ofrecen un manantial inmenso de ideas para el escritor" (22).    
 /OJO/
 
 # Selective Remix
