@@ -58,9 +58,8 @@ El primer
 # Oulipo sintético
 
 Este generador de recetas milagrosas producirá textos que tienen la estructura de las noticias falsas. 
-El procedimiento artístico central es el de la permutación de distintos elementos dentro de un gramática fija. 
-Esta permutación seguirá los parámetros de uno de los métodos que siguió el grupo de artistas/escritores Oulipo.
-“El método M+/-n, que se manifiesta en un principio bajo la forma limitada de su versión S+7 (forma que ha dado su nombre al método), consiste en reemplazar las palabras (M) de un texto dado (de calidad literaria o no) por otras del mismo género que las sigan o las precedan en el diccionario, a una distancia variable definida por la cantidad de términos que las separan”  
+El procedimiento artístico central es el de la permutación de distintos elementos dentro de un gramática prefijada. 
+Esta permutación seguirá los parámetros de uno de los métodos que siguió el grupo de artistas/escritores del Oulipo. Se trata del método S+7, el cual es descrito por el escritor e integrante del grupo Jean Lescure en su texto "El método S+7". Este procedimiento se plantea como un procedimiento sistemático de sustitución dentro de un enunciado base. En realidad, Lescure propone el método M+/- n, el cual, refiere en su texto, se manifiesta bajo la forma de S+7. Este método consiste en reemplazar un determinado tipo de palabras de un texto dado (de calidad literaria o no) por otras del mismo género que las sigan o las precedan en el diccionario, a una distancia variable definida por la cantidad de términos que las separan (2016, 175). Es así que, en su versión de S+7, el método plantea que se tome un texto preexistente y se le sustituyan los sustantivos haciendo uso de un diccionario a fin de crear un texto nuevo. Lo primero sería, entonces, identificar este tipo de palabras en el texto original para rastrearlas en el diccionario. Lo posterior sería reemplazar aqellos sustantivos por otros que se encuentren siete entraadas más adelante en el mismo diccionario. 
 
 “El método S+7”, Jean Lescure (2016), 175
 
@@ -75,3 +74,5 @@ Claude Berge plantea "El Oulipo es el anti-azar" (citado por Benabou, 2016, 10)
 El Oulipo tiene como una de sus características, según Benabou, la voluntad de reunir en su totalidad del campo literario y la utilización de un instrumento estratégico privilegiado, que podría ser la restricción (contraint) (2016, 11).
 
 En palabras de Benabou, el proyecto consiste en "una tentativa de exploración métodica, sistemática, de las potencialidades de la literatura, o mejor dicho, de la lengua" (2016, 11). Para ello, apunta el autor, se plantea dos tipos de misiones. La primera de ellas de la de inventar estructuras que permitan la producción de obras originales. Para ello se valen de la importación de conceptos matemáticos y recursos combinatorios, como el presente en Cien mil millones de poemas, de Raymond Queneau, que dio inicio al Oulipo. En ese sentido, cabe recordar la declaración de principios del mismo Queneau sobre su trabajo: "Llamamos literatura potencial a la búsqueda de formas y de estructuras inicial de QueLa segunda es la de examinar antiguas obras literarias para encontrar las huellas evidentes o no de la utilización de estructuras, formas o restricciones, para lo cual revisaron obras de distintos tipos, géneros, periodos e idiomas (2016, 11).  
+
+la restricción tiene como fin obligar al sistema del lenguaje a salir de su funcionamiento rutinario (13)
