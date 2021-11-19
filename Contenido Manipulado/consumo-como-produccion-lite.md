@@ -19,5 +19,8 @@ De manera análoga a la lectura borgiana de la teología como rama de la literat
 
 Bibliografía
 
+Barone, Orlando. (1996). Diálogos Borges Sabato. Cuarta edición. Buenos Aires: Emecé Editores 
+
 Bouriard, Nicolas. (2007). Postproducción: la cultura como escenario. Modos en que el arte reprograma el mundo. Traducción de Silvio Mattoni. Buenos Aires: Adriana Hidalgo Editora.
+
 Schmidt, Christopher. (2008). "The Waste-Management Poetics of Kenneth Goldsmith". SubStance, vol. 37, núm. 2, pp. 25-40. http://www.jstor.org/stable/25195169 Consultado: 8 de noviembre de 2021.
