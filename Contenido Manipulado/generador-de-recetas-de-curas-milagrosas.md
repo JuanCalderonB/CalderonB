@@ -43,5 +43,5 @@ Lescure resume, más adelante en su texto, los componentes necesarios, incluido 
 Bibliografía
 
 Alegría, Fernando. (1960). "Alejo Carpentier: realismo mágico". Humanitas 1. San Nicolás de los Garza, 345-372. Disponible en https://humanitas.uanl.mx/index.php/ah/article/view/342/275. Consulta: 18 de noviembre de 2021
-Lescure, Jean
-Navas, Eduardo. (2012). Remix Theory: The Aesthetics of Sampling. 
+Lescure, Jean. "El método S+7 (caso particular del método M +/- n)". En Quenau, Raymond y otros. Oulipo. Ejercicios de literatura potencial. (2016). 175-181. Buenos Aires: Caja Negra Editora. 
+Navas, Eduardo. (2012). Remix Theory: The Aesthetics of Sampling. Viena: Springer-Verlag. 
