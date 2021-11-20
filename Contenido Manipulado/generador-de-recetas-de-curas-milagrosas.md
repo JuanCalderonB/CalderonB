@@ -48,4 +48,6 @@ Bautista, Gloria. (1991). "El realismo mágico: historiografía y característic
 
 Lescure, Jean. "El método S+7 (caso particular del método M +/- n)". En Quenau, Raymond y otros. Oulipo. Ejercicios de literatura potencial. (2016). 175-181. Buenos Aires: Caja Negra Editora.
 
+Mena, Luciia Inés. (1975). "Hacia una formulación teórica del realismo mágico". Bulletin Hispanique, tome 77, n° 3-4, 395-407. Disponible en https://www.persee.fr/doc/hispa_0007-4640_1975_num_77_3_4185. Consulta: 20 de noviembre de 2021.
+
 Navas, Eduardo. (2012). Remix Theory: The Aesthetics of Sampling. Viena: Springer-Verlag. 
