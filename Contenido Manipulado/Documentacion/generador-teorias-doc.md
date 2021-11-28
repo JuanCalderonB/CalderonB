@@ -1,8 +1,13 @@
 # Generador de teorías de conspiración
 
-Hemos encontrado hasta el momento alrededor de 200 teorías de la conspiración. 
+¿Qué es una teoría de conspiración? Para este proyecto que se aproxima a las noticias falsas desde la literatura, es un relato construido desde el imaginario distópico. Es así que se encuentran millonarios dispuestos a todo con tal de obtener más beneficios económicos, partidos políticos que buscan instaurar un régimen distinto a partir de su ideología, organismos económicos internacionales que buscan consolidar su poder a toda costa. 
+
+mientras que autores de contenido malicioso escriben noticias falsas, esta pieza escribe textos literarios de relato distópico, pero no hay diferencias entre uno y otro en cuanto a estructura. Es posible decir, entonces, que esta pieza se apropia de la estructura lógica -y, por tanto, gramatical- de las teorías de conspiración para producir textos que evidencien los mecanismos discursivos que este tipo de noticias falsas activan para construir un relato con coherencia narrativa. Ello, pese a que no tengan coherencia lógico-científica. 
+
 El gesto consiste generar algorítmicamente teorías de la conspiración.
 Producción 
+
+Hemos encontrado hasta el momento alrededor de 200 teorías de la conspiración. 
 
 
 # Frases autolegetimadoras 
@@ -38,9 +43,6 @@ Y al intercambiar el efecto sería evidenciar lo que tú comentas, evidenciar la
 Es como las cajas Brillo de Warhol
 Un poco la idea es que no exista una diferencia sensorial entre la obra y su referente de la vida real
 
-mientras que los maliciosos escriben noticias falsas
-yo escribo textos literarios de relato distópico
-pero no hay diferencias entre uno y otro
 
 
 entonces, en mi código dice "héroe", por ejemplo
