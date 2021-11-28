@@ -5,7 +5,7 @@ El gesto consiste generar algorítmicamente teorías de la conspiración.
 Producción 
 
 
-Frases autolegetimadoras, 
+# Frases autolegetimadoras 
 que muestran indignación, como "¡Es increíble!", 
 ironía, como "¡No me sorprende para nada!"
 que demuestran exaltación eufórica como "¡Se acabó el secreto!", 
@@ -16,6 +16,13 @@ De este modo, es posible hacer un comentario desde la obra a los entornos cerrad
 , "¡Ahora tendrán que darme la razón!, ", "¡La verdad, duela a quien le duela!, ", "¡Esto es compromiso con la verdad!, ", "¡Ya no podrán decir que estamos equivocados!, ", "¡Ya no pudieron ocultarlo más!, ", "¡Tarde o temprano la verdad sale a la luz!, " , "¡Todos tenemos derecho a la verdad!, "]
 
 Puesta en escena de cómo llegan las noticias falsas por medios sociales; es decir, no solo se trata del texto mismo, sino de cómo se comparte por distintos usuarios por plataformas como WhatsApp.
+
+# Expansión de narrativas preexistentes
+
+
+
+Lista de Forbes 
+Lista de organismos económicos
 
 # Objetivo 
 sí intervengo las noticias falsas pero para crear más que sean "parecidas"
