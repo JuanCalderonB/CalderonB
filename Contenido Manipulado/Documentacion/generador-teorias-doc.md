@@ -5,7 +5,15 @@ El gesto consiste generar algorítmicamente teorías de la conspiración.
 Producción 
 
 
-Frases autolegetimadoras. 
+Frases autolegetimadoras, 
+que muestran indignación, como "¡Es increíble!", 
+ironía, como "¡No me sorprende para nada!"
+que demuestran exaltación eufórica como "¡Se acabó el secreto!", 
+o hacen un llamado al lector "¡Ya no lo dudes!, ", 
+o que plantean un antagonismo ante el cual se rebelan, como "¡No más engaños!", 
+. Sobre todo, es importante evidenciar la apropiación del término 'verdad' como marco de sus mensajes, como en "¡La verdad sale a la luz!", lo cual constituye un mecanismo discursivo legimitador en el que el emisor se presenta como tenedor de la verdad.
+De este modo, es posible hacer un comentario desde la obra a los entornos cerrados de las redes sociales, a cómo estas crean cámaras de resonancia en las que un determinado discurso se retroalimenta constantemente, comunidades en las que circulan determinados mensajes y se implanta una noción de verdad; es decir, quienes se encuentran inmersos en estos entornos digitales consideran tener una verdad, pese a que los mensajes en que se fundamentan no tienen esa condición epistemológica.  
+, "¡Ahora tendrán que darme la razón!, ", "¡La verdad, duela a quien le duela!, ", "¡Esto es compromiso con la verdad!, ", "¡Ya no podrán decir que estamos equivocados!, ", "¡Ya no pudieron ocultarlo más!, ", "¡Tarde o temprano la verdad sale a la luz!, " , "¡Todos tenemos derecho a la verdad!, "]
 
 Puesta en escena de cómo llegan las noticias falsas por medios sociales; es decir, no solo se trata del texto mismo, sino de cómo se comparte por distintos usuarios por plataformas como WhatsApp.
 
