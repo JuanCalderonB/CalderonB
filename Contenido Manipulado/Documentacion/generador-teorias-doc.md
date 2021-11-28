@@ -36,3 +36,8 @@ y nada, así voy armando esos microrrelatos
 Creo que lo que hay en este tipo de noticia falsa es eso, un relato distópico
 
 # Codificación de relatos distópicos
+
+
+Aquí consiguen mi (ro)bot: https://twitter.com/SantosOlvidados el cual fue creado con Cheap Bots Done Quick!. Si desea crear un bot utilizando este servicio gratuito, lea este tutorial. Y si le interesa estudiar su programación, puede accederlo aquí: https://cheapbotsdonequick.com/source/SantosOlvidados
+
+Así que si necesitan nombres originales para su bebé o personaje ficticio, pueden pedírselos al bot. Si lo menciona en Twitter (@SantosOlvidados) y usa la palabra “niño” o “niña” el bot le responderá con una lista de nombres de santo o santa, respectivamente. Si usa la palabra “hoy” le dará una lista con 4 nombres de santo y 4 de santa.
