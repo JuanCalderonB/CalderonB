@@ -7,24 +7,14 @@ Para esta pieza, consideraremos como materia prima las informaciones catalogadas
 
 # Desconfianza de medios de comunicación tradicionales
 
-Otro de los elementos que esta pieza ha considerado como parte de sus componentes es una frase que introduzca los textos en los que se permutan los nombres de las plantas y los efectos de curación/prevención frente al nuevo coronavirus, lo que hemos llamado aquí recetas de curas milagrosas. Este texto introductorio es una frase que resume la actitud de desconfianza que se encuentra presente en los textos de noticias falsas que hemos examinado. Para acceder a estos, hemos consultado la base de datos de la red Latam Chequea y explorado algunos de los enlaces (no todas las noticias falsas se encuentran disponibles en línea porque los sitios web o de redes sociales las retiran como parte de sus políticas o simplemente han desaparecido sin que se pueda conocer la razón de ello, a lo que se suma que no todos los medios fact-checkers que forman parte de la red colocan los enlaces a la fuente primaria que son los textos mismos de desinformación). Al examinar estos textos, se encuentran mensajes de descrédito respecto a los medios de comunicación tradicionales
+Otro de los elementos que esta pieza ha considerado parte de sus componentes es una frase que introduzca los textos en los que se permutan los nombres de las plantas y los efectos de curación/prevención frente al nuevo coronavirus, lo que hemos llamado aquí recetas de curas milagrosas. Este texto introductorio es una frase que resume la actitud de desconfianza que se encuentra presente en los textos de noticias falsas que se han examinado. Para acceder a estos, se ha consultado la base de datos de la red Latam Chequea y explorado algunos de los enlaces (no todas las noticias falsas se encuentran disponibles en línea porque los sitios web o de redes sociales las retiran como parte de sus políticas o simplemente han desaparecido sin que se pueda conocer la razón de ello). Al examinar estos textos, se encuentran mensajes de descrédito respecto a los medios de comunicación tradicionales. Para esta pieza se han recogido estos mensajes.
+Se considera en este proyecto que este mensaje de desprestigio es parte de una estrategia legitimadora de la voz que emite las noticias falsas; es decir, al plantearse como opositor de los medios tradicionales, el sujeto de enunciación se construye como alguien que otorga información valiosa que no ha sido propalada por los medios mainstream, como poseedor de una verdad que no circula por los canales convencionales, debido a que existe un monopolio de la comunicación por parte de los medios tradicionales. Así, la voz detrás de estas noticias falsas se construye como dadora de verdad y como antagonista frente al monopolio de la información.
 
-Frases como "Esto es algo que no te quieren decir", "Comparte esto antes de que bloqueen esta página", "Divulga esta información antes de que cierren nuestra cuenta", "No lo vas a leer en los medios tradicionales", "Quiero darte un consejo que no leerás en otra parte"
+Por esta razón esta pieza incorpora frases como "Esto es algo que no te quieren decir", "Comparte esto antes de que bloqueen esta página", "Divulga esta información antes de que cierren nuestra cuenta", "No lo vas a leer en los medios tradicionales", "Quiero darte un consejo que no leerás en otra parte". Consideramos que frases como estas son parte del mecanismo de autolegitimación que las noticias falsas activan como parte de la construcción de su credibilidad. 
 
+Según la periodista brasileña Patricia Campos, autora del libro La máquina de odio - Notas de una reportera sobre fake news y violencia digital, existen dos pilares en las campañas de políticos como Donald Trump o Jair Bolsonaro que son centrales para entender la desinformación y como marco de referencia para las frases introductorias de esta pieza de literatura generativa: primero, saltarse a los medios de comunicación, porque funcionan como filtros que verifican la información, por lo cual conviene a sus intereses comunicarse directamente con el público a través de medios sociales, que no verifican datos y tienen poco espacio para opiniones contrarias (Fundación Gabo, 2020, 45); y segundo, desacreditar a los mismos medios de comunicación, porque para que funcione la estrategia deben también atacar la credibilidad de periodistas y medios en general (Fundación Gabo, 2020, 45).
 
-El primer procedimiento que moviliza este proyecto para la creación de un generador de curas milagrosas es el de consumo como producción (consumption as production). es decir, se buscará leer las noticias falsas desde categorías literarias.  literatura  Entender algunas de las noticias falsas como relatos de realismo mágico.
-
-
-
-En el titular del chequeo de noticias falsas encontramos lo siguiente
-
-""
-
-Es ahí que encontramos el componente al cual se le atribuye una propiedad que se denominará mágica.
-
-Como el selective remix, que se entiende por Navas, se agrega o se suprime elementos del original manteniendo su aura intacta.  
-
-Aquí algunos ejemplos de textos que genera cura milagrosa
+Con ello, para esta pieza se han recogido, directamente de los textos de las noticias falsas, frases que sigan la lógica de lo planteado por Campos Mello, es decir, que comuniquen que el contenido no se encuentra disponible en los medios de comunicación tradicionales (saltarse a los medios) y que estos monopolizan la comunicación sin dar la opción a vías alternativas de difusión de información que se presenta como valiosa (desacreditar a los medios). Una vez recogidas, las frases conforman una lista de variables dentro del programa para ser permutadas de forma aleatoria a fin de generar textos que tengan la estructura de las noticias falsas, es decir, que evidencien al usuario de esta pieza de literatura electrónica los mecanismos productores de legitimidad que apunta Campos Mello.
 
 # Realismo mágico
 
@@ -38,3 +28,16 @@ El mismo procedimiento opera con los elementos de una noticia falsa como esta: "
 # Reflexión final
 
 Esta pieza busca crear textos que tengan la estructura de las noticias falsas, por lo cual las sustituciones operan en el eje paradigmático de los textos, no en el eje sintagmático: donde se nombra al eucalipto se puede nombrar al llantén o la yerbabuena, ya que no existe una relación de causalidad necesaria entre las proposiciones de los textos. Así, lo que se crea es una gran cantidad de relatos magicorrealistas, con sus componentes esenciales, con una coherencia narrativa propia. La idea central de este generador de recetas milagrosas es ofrecer al lector textos en los que no exista una diferencia sustantiva entre los microrrelatos ficticios que construye y su referente de la vida real, las fake news, a fin de evidenciar los mecanismos discursivos de estas. Con ello, es a partir de la ficción que se busca reflexionar acerca de cómo se construye la supuesta verdad de las noticias falsas.
+
+
+
+
+Es ahí que encontramos el componente al cual se le atribuye una propiedad que se denominará mágica.
+
+Como el selective remix, que se entiende por Navas, se agrega o se suprime elementos del original manteniendo su aura intacta.  
+
+Aquí algunos ejemplos de textos que genera cura milagrosa
+
+
+
+El primer procedimiento que moviliza este proyecto para la creación de un generador de curas milagrosas es el de consumo como producción (consumption as production). es decir, se buscará leer las noticias falsas desde categorías literarias.  literatura  Entender algunas de las noticias falsas como relatos de realismo mágico.
