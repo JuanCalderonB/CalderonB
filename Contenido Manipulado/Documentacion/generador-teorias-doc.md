@@ -15,7 +15,11 @@ De este modo, es posible hacer un comentario desde la obra respecto de las cáma
 Asimismo, cabe decir que estas frases no son propias de los textos de la base de datos de las noticias falsas que manejamos. Son, más bien, una puesta en escena de cómo llegan estas informaciones maliciosas por medios sociales; es decir, no solo se trata del texto mismo, sino de cómo se comparte por distintos usuarios por plataformas como WhatsApp.
 
 # Otras frases autolegitimadoras
-De la misma manera, como parte de esta puesta en escena, también se ha creado un conjunto de frases como "una fuente confiable me dijo", "una fuente con información de primera mano me confió", "una fuente por la que pongo las manos al fuego me confirmó", "una fuente intachable me aseguró" o "una fuente incuestionable me aseguró", las cuales tienen como fin también develar los mecanismos discursivos de construcción de credibilidad. Son también frases autolegitimadoras. Con estas, la voz se construye como un sujeto con acceso a información privilegiada y a la vez transfiere esa credibilidad a la fuente que le permite obtener esa información. Como se puede entender, es un proceso circular: es una voz creíble porque tiene acceso a fuentes y sus fuentes son creíbles porque el sujeto mismo así lo dictamina. Es decir, al mismo tiempo en que construye su credibilidad la está cediendo a sus fuentes.
+De la misma manera, como parte de esta puesta en escena, también se ha creado un conjunto de frases como "una fuente confiable me dijo", "una fuente con información de primera mano me confió", "una fuente por la que pongo las manos al fuego me confirmó", "una fuente intachable me aseguró" o "una fuente incuestionable me aseguró", las cuales tienen como fin también develar los mecanismos discursivos de construcción de credibilidad. Son también frases autolegitimadoras. Con estas, la voz se construye como un sujeto con acceso a información privilegiada y a la vez transfiere esa credibilidad a la fuente que le permite obtener esa información. Como se puede entender, es un proceso circular: es una voz creíble porque tiene acceso a fuentes y sus fuentes son creíbles porque el sujeto mismo así lo dictamina. Es decir, al mismo tiempo en que construye el capital simbólico de su credibilidad lo está trasladando a sus fuentes. En este caso son fuentes de segunda mano.
+
+# Construyendo personajes en el relato distópico
+Es bajo la misma lógica de develar los mecanismos discursivos detrás de la autolegitimación que se construyen frases como "un alto funcionario del gobierno desenmascaró el secreto", "un desertor del gobierno accedió a una información secreta", "un funcionario descontento con el gobierno rastreó una comunicación encubierta" o "un diplomático de alto rango encontró un documento confidencial" o "un periodista cercano al gobierno descubrió el secreto". En este caso, el acceso a la información que se presenta como privilegiada es posible a partir de las profesiones y cargos de los sujetos nombrados: son periodistas o funcionarios o exfuncionarios , los cuales, por la naturaleza de su trabajo, acceden a información que no está disponible para el ciudadano del común. Estos sujetos corresponden a los héroes dentro del relato distópico. Son, por su acción narrativa, figuras prometeicas que arrebatan el conocimiento a una instancia de mayor poder para entregárselo a la sociedad en general. 
+Del mismo modo, estas constituirán las fuentes de primera mano de la voz narrativa. Con estas fuentes y las mencionadas anteriormente, las de segunda mano, se busca evidenciar el enrevesado procedimiento de propagación de las informaciones maliciosas, el cual implica distintos actores en la cadena de transmisión de los mensajes supuestamente ocultos.
 
 # Expansión de narrativas preexistentes
 El procedimiento central es la expansión de las narrativas que proponen las noticias falsas mediante un procedimiento de sustitución de los elementos que las componen. Por ejemplo, si una noticia falsa propone que el coronavirus es mezcla de SARS, VIH, tuberculosis y malaria, como esta (https://colombiacheck.com/chequeos/coronavirus-covid-19-no-es-mezcla-de-sars-vih-tuberculosis-y-malaria), es posible intercambiar las enfermedades nombradas por otras a partir de la creación de una lista (array) en el código informático. Esta lista conformará un conjunto de variables que el programa permuta aleatoriamente. De ese modo, a partir de ese texto base, se producen automatizadamente múltiples textos que se ofrecen al lector con el fin de que se pueda evidenciar la falta de una lógica científica que los sustente; es decir, al no haber una relación de causalidad necesaria en los enunciados, es posible permutar sus elementos y, al mismo tiempo, mostrar tal estructura lógica y gramatical como arbitraria.   
@@ -23,24 +27,8 @@ El procedimiento central es la expansión de las narrativas que proponen las not
 El mismo procedimiento opera con los elementos de una noticia falsa como esta: "La pandemia estaba preparada por un simulacro hecho en octubre de 2019 en Nueva York, que Bill Gates conocía" (https://efectococuyo.com/cocuyo-chequea/ruby-demestoy-datoscoronavirus/). En este se intercambia el nombre de Bill Gates por el de otros multimillonarios, para lo cual se toma como insumo una lista de Forbes (https://forbes.co/2020/04/07/negocios/listado-los-15-mas-ricos-del-mundo-2020/). Con ello se busca evidenciar el imaginario distópico que opera detrás de las noticias falsas. 
 
 # Objetivo 
-sí intervengo las noticias falsas pero para crear más que sean "parecidas"
-tengan la estructura de una teoría de la conspiración
-Entonces puedo decir que lo creó el partido de China, de Rusia, de Corea del Norte 
-
-
- Porque lo que se quiere es evidenciar que, como no hay una relación necesaria de causalidad, puedo intercambiar
-Así como puede ser Partido Comunista de China, puede ser de Rusia o de Corea del Norte
-Y al intercambiar el efecto sería evidenciar lo que tú comentas, evidenciar la estructura de las teorías de la conspiración
-
-
-Es como las cajas Brillo de Warhol
-Un poco la idea es que no exista una diferencia sensorial entre la obra y su referente de la vida real
-
-
-
-entonces, en mi código dice "héroe", por ejemplo
-entonces siempre en estas novelas distópicas está esta figura prometeica que le roba el secreto al poderoso
-y nada, así voy armando esos microrrelatos
+Esta pieza busca crear textos que tengan la estructura de las teorías de la conspiración, por lo cual las sustituciones operan en el eje paradigmático de los textos, no en el eje sintagmático: donde se nombra al Particdo Comunista de China se puede nombrar al Partido Comunista de Ruisa, ya que no existe una relación de causalidad necesaria entre las proposiciones de los textos. Así, lo que se crea es una gran cantidad de relatos distópicos, con sus componentes esenciales, con una coherencia narrativa propia. 
+La idea central de este generador de teorías de conspiración es ofrecer al lector textos en los que no exista una diferencia sustantiva entre los microrrelatos ficticios que construye y su referente de la vida real, las fake news, a fin de evidenciar los mecanismos discursivos de estas segundas. Con ello, es a partir de la ficción que se busca reflexionar acerca de cómo se construye la supuesta verdad de las noticias falsas.
 
 # Decodificación de las noticias falsas
 Creo que lo que hay en este tipo de noticia falsa es eso, un relato distópico
