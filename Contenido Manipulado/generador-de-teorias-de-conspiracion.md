@@ -130,3 +130,5 @@ El código es el siguiente. A este se le agregó un botón para que el usuario d
 
     </body>
 </html>
+
+De esta forma, lo que se busca es recrear el mundo de las noticias falsas desde la literatura. Y es a partir de esta recreación que se busca fijar para el lector los parámetros imaginativos desde donde se generan las noticias falsas. Estos parámetros imaginativos serían las construcciones cognitivas de lo social de las que habla Pérez Hernáiz y, para ello, se construyen mundos alternativos que ponen en escena, siguiendo el plantemiento de Gualda, las creencias que se oponen sobre un determinado tema.
