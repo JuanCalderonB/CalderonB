@@ -26,3 +26,11 @@ El Oulipo tiene como una de sus características, según Benabou, la voluntad de
 En palabras de Benabou, el proyecto consiste en "una tentativa de exploración métodica, sistemática, de las potencialidades de la literatura, o mejor dicho, de la lengua" (2016, 11). Para ello, apunta el autor, se plantea dos tipos de misiones. La primera de ellas de la de inventar estructuras que permitan la producción de obras originales. Para ello se valen de la importación de conceptos matemáticos y recursos combinatorios, como el presente en Cien mil millones de poemas, de Raymond Queneau, que dio inicio al Oulipo. En ese sentido, cabe recordar la declaración de principios del mismo Queneau sobre su trabajo: "Llamamos literatura potencial a la búsqueda de formas y de estructuras inicial de QueLa segunda es la de examinar antiguas obras literarias para encontrar las huellas evidentes o no de la utilización de estructuras, formas o restricciones, para lo cual revisaron obras de distintos tipos, géneros, periodos e idiomas (2016, 11).  
 
 la restricción tiene como fin obligar al sistema del lenguaje a salir de su funcionamiento rutinario (13)
+
+
+/OJO/
+Frases introductorias
+Ya hay cura
+Buenas noticias
+https://www.lasillavacia.com/historias/silla-nacional/no-el-agua-de-ajo-no-cura-el-coronavirus
+/OJO/
