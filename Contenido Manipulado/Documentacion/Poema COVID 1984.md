@@ -11,7 +11,7 @@ Es decir, el discurso antivacuna activa dos procedimientos
 
 1. El primero es el de victimización. 
 
-2. El segundo procedimiento es el de emancipación. Busca autodeterminarse, librarse de un poder opresor; en ese sentido, su 
+2. El segundo procedimiento es el de insubordinación. Busca autodeterminarse, librarse de un poder opresor; en ese sentido, su 
 Incluso, con ello, su gesta toma carácter épico. 
 
 Sus propios enemigos: Bill Gates, asociado a la creación. Así es posible de apreciarse en el mensaje "Bill Gates a Bill Gates que se vaya a vacunar él mismo".
@@ -30,4 +30,5 @@ Algo que aplica para los fundamentalistas como a los que no lo son: "La religió
 
 Busca explorar su multiplicidad y con ello, sus encadenamientos (y sus contradicciones), a pesar de las cuales se plantea como un discurso consolidado, un entramado que es posible expresarse en mensajes como este "Despierta: la pandemia es un engaño y la vacuna, veneno", que hace un llamado al inconformismo (procedimiento de insubordinación) al aceptar como una estafa la pandemia (negacionismo como fuente, en su versión de manipulación mediática) y a la vacuna como veneno (una teoría de la conspiración como fuente, en su versión de aniquilación de la población por medio del instrumento médico).
 
-De ese modo, construye una narrativa a partir de apropiarse de valores inmersos en los relatos de luchas reinvidicativas como el antiracismo, el feminismo, etc. Es decir, el discurso antivacunas fagocita discursos de causas sociales legítimas.  
+De ese modo, construye una narrativa a partir de apropiarse de valores inmersos en los relatos de luchas reinvidicativas como el antiracismo, el feminismo, etc. Es decir, el discurso antivacunas fagocita discursos de causas sociales legítimas. 
+El fin, entonces, de esta obra no solo recoge estos pequeños discursos, sino que busca que el usuario pueda acceder a textos en los cuales estos discursos interactúan entre sí. El programa informático básicamente combina aleatoriamente los mensajes recogidos para crear siempre un poema nuevo. Se busca, con ello, cómo los discursos específicos de los manifestantes (microdiscursos) conforman el discurso antivacuna (macrodiscurso). Para graficar esto se ha buscado presentar los microdiscursos interactuando entre sí para que el lector del texto generado pueda reconstruir el macrodiscurso.     
