@@ -1,4 +1,4 @@
-#Poema COVID-1984#
+# Poema COVID-1984
 
 Esta pieza de poesía electrónica tiene como objetivo evaluar el discurso antivacuna público en marchas alrededor del mundo.
 
