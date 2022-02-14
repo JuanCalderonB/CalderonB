@@ -1,4 +1,4 @@
-# Poema COVID-1984
+## Poema COVID-1984
 
 La postura en rechazo a la vacuna contra el COVID-19, enfermedad producida por el virus SARS-CoV-2, debe ser entendida como un fenómeno complejo, soportado por una red de discursos, es decir, por conjuntos de ideas sociales, políticas y religiosas que trazan múltiples conexiones entre sí. Esta pieza de poesía electrónica busca presentar al usuario una muestra de lo que ha sido el discurso antivacuna a lo largo de dos años de pandemia a partir de pequeños mensajes que han sido exhibidos a través de pancartas en marchas o protestas en espacios públicos alrededor de Europa y América en contra de medidas sanitarias por parte de los gobiernos, incluida la aplicación de la vacuna. A partir de ello, busca evidenciar los mecanismos de legitimación de este discurso, el cual pretende mostrarse como una manifestación social legítima, para lo cual se sitúa en la misma línea de fenómenos reivindicatorios que se oponen a una opresión histórica, y actúa como uno de ellos, pese a ser un fenómeno antagónico (ni legítimo ni meritorio de una reivindicación), en el otro lado del espectro de las luchas por las causas sociales.
 
@@ -10,7 +10,7 @@ Lo segundo es transcribir estos mensajes que se encuentran en el formato de una 
 
 Lo tercero es agrupar estos mensajes bajo criterios temáticos y/o lingüísticos, es decir, generar conjuntos a partir de similitudes de forma o fondo de modo que puedan ser considerados intercambiables un elemento por otro. Ello debido a que conformarán en el programa strings, cuyos componentes serán intercambiados de forma aleatoria para ser parte de un poema generado. Cabe anotar que cada vez que el usuario lo desee, se repetirá la operación y el resultado será un poema distinto al anterior, es decir, cada vez que pulse el botón correspondiente, el cual tiene como texto "Generar poema".  
 
-Algunos hallazgos prodcudidos en el proceso de creación
+# Algunos hallazgos prodcudidos en el proceso de creación
 
 Resulta interesante de considerar la apropiación que plantea el discurso antivacuna de valores tradicionalmente propios de comunidades en busca de reivindicación social, es decir, de poblaciones históricamente oprimidas. Es decir, los individuos que se oponen a la vacuna contra el COVID despliegan un lenguaje de confrontación contra poderes totalitarios que atentan contra sus derechos fundamentales. Es decir, a nivel macro, el discurso es resultado de la activación de dos procedimientos que es necesario examinar detenidamente.
 
