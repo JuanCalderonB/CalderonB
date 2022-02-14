@@ -1,8 +1,9 @@
 # Poema COVID-1984
 
-Esta pieza de poesía electrónica busca ofrecer al usuario un panorama amplio de lo que ha sido el discurso en contra de la vacuna contra el COVID-19, enfermedad producida por el virus SARS-CoV-2, que ha sido exhibido en marchas o protestas en espacios públicos alrededor del mundo. A partir de ello, busca evidenciar los mecanismos de legitimación de este discurso, los cuales.
+La postura en rechazo a la vacuna contra el COVID-19, enfermedad producida por el virus SARS-CoV-2, debe ser entendido como un fenómeno complejo, soportado por una red de discursos, es decir, por conjuntos de ideas sociales, políticas y/o religiosas que trazan múltiples conexiones entre sí. Esta pieza de poesía electrónica busca presentar al usuario una muestra de lo que ha sido el discurso antivacuna a partir de pequeños mensajes que ha sido exhibidos a través de pancartas en marchas o protestas en espacios públicos alrededor del mundo. A partir de ello, busca evidenciar los mecanismos de legitimación de este discurso, el cual busca posicionarse como una manifestación social legítima, para lo cual se apropia de estrategias de fenómenos antagónicos, en el otro lado del espectro de las luchas por las causas sociales.
 
-El procedimiento respecto a las otras piezas es diferente. En este caso no se trata de noticias falsas, sino de discursos recojo de información 
+La naturaleza de esta pieza respecto a las otras que conforman Contenido Manipulado es diferente. En este caso no se trabaja literariamente a partir de noticias falsas que han sido verificadas por fact-checkers, sino sobre la base de discursos públicos emitidos en hechos sociales específicos como son las marchas antivacunas. 
+En este sentido el proceso de creación es distinto en sus primeras etapas. recojo de información 
 
 Que el medio de noticias del que cuente con una trayectoria. 
 
