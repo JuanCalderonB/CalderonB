@@ -12,7 +12,7 @@ Lo segundo es transcribir estos mensajes que se encuentran en el formato de una 
 
 Lo tercero es agrupar estos mensajes bajo criterios temáticos y/o lingüísticos, es decir, generar conjuntos a partir de similitudes en el plano del contenido o de la expresión de modo que puedan ser considerados intercambiables unos elementos por otros. Ello debido a que conformarán en el programa strings, cuyos componentes serán permutados de forma aleatoria para ser parte de un poema generado. Cabe anotar que cada vez que el usuario lo desee, se repetirá la operación y el resultado será un poema distinto al anterior, es decir, cada vez que pulse el botón correspondiente, el cual tiene como inscripción "Generar poema".  
 
-# Algunos hallazgos produdidos en el proceso de creación
+# Algunos hallazgos producidos en el proceso de creación
 
 Resulta interesante de considerar la apropiación que plantea el discurso antivacuna de valores tradicionalmente propios de comunidades en busca de reivindicación social, es decir, de poblaciones históricamente oprimidas. Es decir, los individuos que se oponen a la vacuna contra el COVID despliegan un lenguaje de confrontación contra supuestos poderes totalitarios que atentan contra sus derechos fundamentales. Es así que el presente análisis propone como premisa que el discurso antivacuna, a fin de legitimarse a sí mismo, activa de dos procedimientos que es necesario examinar detenidamente.
 
