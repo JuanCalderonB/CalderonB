@@ -13,3 +13,4 @@ Otro punto central en el trabajo de Goldsmith es una propuesta de lectura cercan
 Esta traslación al contexto de la poesía permite otra aproximación a la materia prima de nuestro proyecto de creación: las noticias falsas. En palabras del mismo Goldsmith sobre el trabajo de Day: es como si nunca hubiera leído en verdad el periódico (citar). Lo aquí planteado se relaciona con uno de los objetivos centrales de este proyecto, que es generar una reflexión ético-política respecto a la desinformación. Al reenmarcarlas estas noticias falsas como poesía, se abre la posibilidad de analizar la configuración de su mensaje sin sus consecuencias inmediatas: análogamente a lo planteado por Goldsmith, leer en verdad las noticias falsas.
 
 Schmidt, Christopher. (2008). "The Waste-Management Poetics of Kenneth Goldsmith". SubStance, vol. 37, núm. 2, pp. 25-40. http://www.jstor.org/stable/25195169 Consultado: 8 de noviembre de 2021.
+
