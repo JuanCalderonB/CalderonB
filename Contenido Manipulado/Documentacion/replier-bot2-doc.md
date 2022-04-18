@@ -1,10 +1,19 @@
 
+# Verbos de baja modalidad
+
+
+
 # La paradoja de la tolerancia y la desinformación
 
 Popper en "La sociedad abierta y sus enemigos" plantea la conocida paradoja de la democracia.
 Trasladando esa lógica a este proyecto, es posible plantear que, de malentenderse algunos valores de la democracia, se puede dar cabida a mensajes que socaven el constructo de la verdad. La tolerancia es un valor esencial en la democracia, que se encuentra en su base, que hace posible la convivencia funcional de comunidades heterogéneas. Sin embargo, es posible malinterpretar este concepto y aplicarlo acríticamente al fenómeno de la infodemia, la masiva aparición de informaciones tanto falsas como verdaderas en el entorno digital durante la pandemia del COVID-19. Es decir, la tolerancia como posicionamiento de apertura a otras identidades, a otros valores comunitarios, se plantea en este caso como un principio bajo el cual es posible considerar a la información falsa en una conversación sobre hechos específicos.
 
 Es por ello que la pieza hace mención a la democracia misma, a la tolerancia y a la libertad de expresión. Incluso al valor periodístico de la imparcialidad. Es así que parte de la gramática del programa que produce los textos incluye frases como "La democracia es escuchar a ambos lados...", "La tolerancia consiste en escuchar a quien no piensa igual...", "No tachemos de plano lo que plantean otras voces...", "No callemos sin más otras versiones...", "Al fin y al cabo existe libertad de expresión...", "Tratemos de dar espacio a otras versiones", "Seamos tolerantes y tengamos una conversación", "Lo importante es tener un diálogo", "Libertad de expresión es dar espacio a otras voces", "La imparcialidad es dar espacio a otras versiones", "Seamos imparciales y escuchemos a los otros"
+
+# Generar espacios de diálogo con fake news incluidas
+
+Los mensajes que publica este bot terminan con una invocación a compartir el texto escrito. En ese sentido, se convoca al lector a participar en una hipotética conversación que incluye a la información falsa como una versión posible de la realidad. Cabe aclarar que no se trata de una conversación acerca de las fake news, sino de la posibilidad de que tanto la información falsa como la verdadera sean aspirantes a la condición de verdad. En ese sentido, se invita a la información falsa a participar en igualdad de condiciones en un debate sobre qué es lo sucedido. En general, una dilucidación acerca de qué es lo verdadero y qué no resulta beneficioso para conocer la realidad de un evento. Sin embargo, debe considerarse adecuadamente esa igualdad de condiciones en que se plantea ese debate. Un diálogo, una discusión, es propiamente un intercambio, y no hay intercambio posible con las teorías de la conspiración o la pseudociencia. No es posible un intercambio con la desinformación. Asimismo, un intercambio tiene como fin arribar a un consenso; y no es posible consensuar con información falsa. No es posible llegar a un término medio entre verdad y falsedad, porque, si eso fuera posible, tal término medio sería falso.
+"Comparte y tengamos una sana discusión" es uno de los fragmentos finales. Sin embargo, no ha habido una verificación previa a esa discusión.
 
 # Reflexión final
 
