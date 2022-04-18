@@ -2,7 +2,9 @@
 # La paradoja de la tolerancia y la desinformación
 
 Popper en "La sociedad abierta y sus enemigos" plantea la conocida paradoja de la democracia.
-Trasladando esa lógica a este proyecto, es posible plantear que, de malentenderse algunos valores de la democracia, se puede dar cabida a mensajes que socaven el constructo de la verdad. Es así que parte de la gramática del programa que produce los textos incluye frases como ""  
+Trasladando esa lógica a este proyecto, es posible plantear que, de malentenderse algunos valores de la democracia, se puede dar cabida a mensajes que socaven el constructo de la verdad. La tolerancia es un valor esencial en la democracia, que se encuentra en su base, que hace posible la convivencia funcional de comunidades heterogéneas. Sin embargo, es posible malinterpretar este concepto y aplicarlo acríticamente al fenómeno de la infodemia, la masiva aparición de informaciones tanto falsas como verdaderas en el entorno digital durante la pandemia del COVID-19. Es decir, la tolerancia como posicionamiento de apertura a otras identidades, a otros valores comunitarios, se plantea en este caso como un principio bajo el cual es posible considerar a la información falsa en una conversación sobre hechos específicos.
+
+Es por ello que la pieza hace mención a la democracia misma, a la tolerancia y a la libertad de expresión. Incluso al valor periodístico de la imparcialidad. Es así que parte de la gramática del programa que produce los textos incluye frases como "La democracia es escuchar a ambos lados...", "La tolerancia consiste en escuchar a quien no piensa igual...", "No tachemos de plano lo que plantean otras voces...", "No callemos sin más otras versiones...", "Al fin y al cabo existe libertad de expresión...", "Tratemos de dar espacio a otras versiones", "Seamos tolerantes y tengamos una conversación", "Lo importante es tener un diálogo", "Libertad de expresión es dar espacio a otras voces", "La imparcialidad es dar espacio a otras versiones", "Seamos imparciales y escuchemos a los otros"
 
 # Reflexión final
 
