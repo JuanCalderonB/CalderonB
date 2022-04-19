@@ -7,8 +7,9 @@ Por otro lado, este procedimiento no es solo de distribución, sino también de 
 
 # Identidad autorial
 
-Como se ha planteado, este proyecto busca ir más allá de la producción de textos que sean simulaciones de noticias falsas, y desarrollar también identidades digitales que imiten identidades de personas reales que compartan información falsa. A fin de lograr verosimilitud, se busca trazar al menos en algún nivel un boceto de identidad digital con características específicas. Ello para que se procesen e interpreten estas supuestas informaciones falsas desde un lugar específico de enunciación. 
+Como se ha planteado, este proyecto busca ir más allá de la producción de textos que sean simulaciones de noticias falsas, y desarrollar también identidades digitales que imiten identidades de personas reales que compartan información falsa. A fin de lograr verosimilitud, se busca trazar al menos un boceto de lo que sería identidad digital con características específicas. Ello para que se procesen e interpreten estas supuestas informaciones falsas desde un lugar específico de enunciación.
 
+Lo más evidente son los datos de perfil. Estos bots tienen nombres ficticios. En realidad, son nombres extraídos de autores ficticios creados por el escritor portugués Fernando Pessoa (1888-1935), quien creó lo que los críticos llaman heterónimos. Ello quiere decir que no solo utilizó su nombre para publicar sus textos, sino también otros; sin embargo, no se trata solo de la práctica de la adopción de seudónimos, sino de la creación de identidades autoriales ficticias, cuya existencia en el mundo real se constata solamente con la firma de sus obras. Es más, estas identidades son independientes entre sí, y como tales desarrollan temas propios, tienen visiones del mundo distintas al igual que registros lingüísticos específicos y son artífices de géneros o subgéneros distintos entre ellos. Es decir, no se trata de enmascarar al mismo autor bajo otro nombre, sino de crear otros autores.      
 Este bot es una persona religiosa
 
 # Esparcir la desinformación a través de la duda 
