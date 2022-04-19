@@ -1,14 +1,15 @@
-# Replier bot: Bernardo de Campos
+# Replier bot 1: Bernardo de Campos
 
 Se ha hablado de que uno de los procedimientos de composición de este proyecto de literatura electrónica es la expansión de las narrativas preexistentes de las noticias falsas. Ello se ha realizado a partir de intercambios en el eje paradigmático de las informaciones que han sido clasificadas como falsas por los fact checkers hispanoamericanos agrupados en la iniciativa Latam Chequea. De ese modo, donde se ha encontrado originalmente el nombre 'Bill Gates' se ha intercambiado por el nombre de algún otro empresario entre los más adinerados a nivel global. Tal es, en resumidas cuentas, el procedimiento central del Generador de Teorías de Conspiración y del Generador de Recetas de Curas Milagrosas. En esta ocasión, se ha buscado explorar este mismo procedimiento desde una distinta perspectiva.
 Este es el primero de un conjunto de replier bots (o bots replicadores) cuyo objetivo es compartir y comentar los textos que producen estos generadores (es decir, 'responder' a los tuits producidos por estos generadores, que se encuentran también como entidades en Twitter bajo sus mismos nombres -Generador de Teorías de Conspiración y Generador de Recetas de Curas Milagrosas-). Desde el punto de vista literario, con ello se busca sumar otro nivel a la expansión de los relatos de las noticias falsas: estos no solo serán expandidos por los generadores, sino que también serán compartidos y comentados por los replier bots. Con ello, estos textos generados de forma anónima son compartidos por entidades digitales con nombre y apellido, y foto de perfil. Es decir, pasan a ser parte de una conversación digital que estas entidades forman con sus seguidores.
-Este procedimiento de crear una conversación entre entidades digitales forma parte del objetivo central del proyecto de Contenido Manipulado, que es el de imitar las dinámicas de producción y distribución de la desinformación. Este grupo de bots compartirán los tuits de los generadores en sus perfiles personales, con lo cual los textos producidos por entidades anónimas pasarán a habitar el historial de publicaciones de entidades con nombre y apellido, y foto; es decir, que emulan ser personas reales. Con ello estas supuestas personas esparcen estos textos literarios que imitan a las noticias falsas, de la misma manera que los humanos (y también los no humanos, de eso se hablára en la siguiente sección) esparcen las noticias falsas reales. 
+Este procedimiento de crear una conversación entre entidades digitales forma parte del objetivo central del proyecto de Contenido Manipulado, que es el de imitar las dinámicas de producción y distribución de la desinformación. Este grupo de bots compartirán los tuits de los generadores en sus perfiles personales, con lo cual los textos producidos por entidades anónimas pasarán a habitar el historial de publicaciones de entidades con nombre y apellido, y foto; es decir, que emulan ser personas reales. Con ello estas supuestas personas esparcen estos textos literarios que imitan a las noticias falsas, de la misma manera que los usuarios de redes sociales esparcen las noticias falsas reales. 
 Por otro lado, este procedimiento no es solo de distribución, sino también de producción, debido a que los textos que escribirán estos bots son diferentes a aquellos de los generadores. Es más, se busca que los comentarios de los bots guarden, en primer lugar, una relación lógica con el mensaje comentado: se buscará simular que el comentario nace de una reflexión o de un procesamiento del contenido del texto de los generadores, con lo cual se dibuja un razonamiento coherente entre ambas distintas publicaciones. En segundo lugar, se busca trazar una relación sintáctica entre las dos publicaciones, ya que el replier bot aludirá mediante frases o referentes (como 'esto', 'este', 'esta publicación', etc.) directamente a los textos de los generadores. De esta manera se busca producir un encadenamiento coherente y cohesionado entre el texto nuevo del bot y el texto producido con anterioridad por los generadores.  
 
-# Identidades autoriales
+# Identidad autorial
 
-La desinformación es esparcida por humanos y no humanos.
-Este proyecto busca plantear una literatura algorítmica que imite una desinformación algorítmica.
+Como se ha planteado, este proyecto busca ir más allá de la producción de textos que sean simulaciones de noticias falsas, y desarrollar también identidades digitales que imiten identidades de personas reales que compartan información falsa. A fin de lograr verosimilitud, se busca trazar al menos en algún nivel un boceto de identidad digital con características específicas. Ello para que se procesen e interpreten estas supuestas informaciones falsas desde un lugar específico de enunciación. 
+
+Este bot es una persona religiosa
 
 # Esparcir la desinformación a través de la duda 
 
@@ -16,9 +17,7 @@ La baja modularidad de los verbos:
 
 Entonces, este bot retuiteará los textos producidos por el Generador del 
 
-# Fuentes de tercera mano 
-
-Uno de los bots reuiteará los textos producidos por el Generador de teorías de conspiración.
-
 # Reflexión final
 
+El proyecto de los replier bots se inspira en el hecho de que la desinformación es esparcida por humanos y no humanos, y busca imitar esas dinámicas. De hecho, resulta en muchos casos muy complicado para el usuario común de redes sociales diferenciar a una entidad humana de una no humana. Ello no es fácil incluso para los investigadores de los campos de las ciencias de la computación, que han desarrollado estudios para identificar el funcionamiento de estas entidades no humanas creadas con fines maliciosos y su impacto en colectividades humanas y en el mundo offline. 
+ En ese sentido, este proyecto busca desarrollar distintos componentes de una literatura algorítmica que imite las dinámicas de una desinformación algorítmica.
