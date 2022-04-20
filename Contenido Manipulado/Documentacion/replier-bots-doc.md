@@ -1,6 +1,6 @@
 # Replier bots
 
-Se ha hablado de que uno de los procedimientos de composición de este proyecto de literatura electrónica es la expansión de las narrativas preexistentes de las noticias falsas. Ello se ha realizado a partir de intercambios en el eje paradigmático de las informaciones que han sido clasificadas como falsas por los fact checkers hispanoamericanos agrupados en la iniciativa Latam Chequea. De ese modo, donde se encontraba en el texto original el nombre 'Bill Gates' se ha intercambiado en el texto generado por el nombre de algún otro empresario entre los más adinerados a nivel global. Tal es, en resumidas cuentas, el procedimiento central del Generador de Teorías de Conspiración y del Generador de Recetas de Curas Milagrosas. En esta ocasión, se ha buscado explorar el procedimiento de expansión narrativa desde una perspectiva distinta.
+Se ha hablado de que uno de los procedimientos de composición de este proyecto de literatura electrónica es la expansión de las narrativas preexistentes de las noticias falsas. Ello se ha realizado a partir de intercambios en el eje paradigmático de las informaciones que han sido clasificadas como falsas por los fact checkers hispanoamericanos agrupados en la iniciativa Latam Chequea. De ese modo, donde se encontraba en el texto original el nombre 'Bill Gates' se ha intercambiado en el texto generado por el nombre de algún otro empresario entre los más adinerados a nivel global. Tal es, en resumidas cuentas, el procedimiento central del Generador de Teorías de Conspiración y del Generador de Recetas de Curas Milagrosas. Para más información, En esta ocasión, se ha buscado explorar el procedimiento de expansión narrativa desde una perspectiva distinta.
 
 # ¿Qué son los replier bots?
 
@@ -19,9 +19,9 @@ Según el crítico Jerónimo Pizarro, Pessoa creó 136 heterónimos. De ellos, s
 
 # Identidades autoriales
 
-En el artículo “The Bot Politic” de Jacqueline Feldman (https://www.newyorker.com/tech/annals-of-technology/the-bot-politic), la autora comenta su experiencia en el desarrollo de bots y comenta la posibilidad de crear una personalidad para un bot. Con ello, sumado al acercamiento a la obra de Pessoa, se estableció una idea relevante para este proyecto de literatura electrónica: la creación de entidades autoriales con personalidades distintas como procedimiento literario.
+En el artículo “The Bot Politic” de Jacqueline Feldman (https://www.newyorker.com/tech/annals-of-technology/the-bot-politic), la autora comenta su experiencia en el desarrollo de bots y comenta la posibilidad de crear una personalidad para un bot. Con ello, sumado al acercamiento a la obra de Pessoa, se estableció una idea relevante para este proyecto de literatura electrónica: la creación de entidades autoriales con personalidades distintas como procedimiento literario. Es decir, se busca trasladar la creación de entidades autoriales ficticias, los heterónimos de Pessoa, al terreno digital y aplicar este procedimiento a los bots de Twitter. 
 
-Para este proyecto se buscará darle a cada uno de los bots si bien no una personalidad, porque eso sería algo muy complejo de conceptualizar, y que demande mucho más tiempo del disponible para el trabajo y posiblemente requiera habilidades técnicas 
+Para este proyecto se buscará darle a cada uno de los bots si bien no una personalidad, porque eso sería algo muy complejo de conceptualizar y que demande mucho más tiempo del disponible para el trabajo, además de que posiblemente requiera habilidades técnicas especializadas en la programación, sí algunas características reconocibles.  
 
 # Reflexión final
 
