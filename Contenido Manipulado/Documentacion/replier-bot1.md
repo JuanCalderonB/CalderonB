@@ -1,6 +1,8 @@
 # Replier bot 1: Bernardo de Campos
 
-Este es un bot que 
+En el artículo "Antivacunas: lo que he aprendido al debatir con ellos", publicado en la web de la Fundación Gabo, el autor Hernán Restrepo, periodista de larga trayectoria, comparte observaciones acerca de lo que ha sido la interacción a lo largo de su carrera con colectivos e inviduos antivacunas, y da cuenta de que estos no conforman un grupo uniforme, sino lo contrario: un grupo heterogéneo. En ese sentido, a partir de su experiencia, él ha identificado tres tipos de individuos antivacunas, que son el sobreinformado, el libertario y el religioso.
+
+no son un grupo homogéneo
 
 # Identidad autorial
 
