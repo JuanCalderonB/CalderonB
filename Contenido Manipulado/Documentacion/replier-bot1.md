@@ -4,6 +4,16 @@ En el artículo "Antivacunas: lo que he aprendido al debatir con ellos", publica
 
 no son un grupo homogéneo
 
+
+# Expansión narrativa
+
+Desde un punto de vista narratológico, los relatos del Generador de Teorías de Conspiración son expandidos por las respuestas que genera el replier bot
+
+Los textos del repliet bot comienzan con una exclamación. Una de las opciones es "¡Ya no se puede ocultar más!". Ello hace referencia al texto que produce el Generador de teorías de conspiración. 
+
+Con ello, existen dos dimensiones narrativas. La primera es la del relato del generador, en el que se construye una narración al estilo de las fake news. La segunda es la dimensión de la conversación de una persona particular, Bernardo de Campos, en su conversación de Twitter. El marco narrativo es el transcurrir de la vida de esta identidad ficcional. eEn esta vida, al igual que en la vida de los personas reales, hay una discusión en torno a la verdad. Y lo que sucede es que este autor utiliza el relato del generador para incrustarlo en su conversación personal. Lo hace parte de su compartamiento digital. Este texto del generado habita ahora en el feed de Bernardo de Campos. Y, además, es el punto de partida para un razonamiento de él. Es decir, el relato del generador es incrustado/insertado en un razonamiento de un sujeto particular en la esfera de Twitter.    
+
+
 # Identidad autorial
 
 Discurso antivacunas de corte religioso
@@ -35,8 +45,30 @@ comunicacional
 
 
 Tono de comunicación. En su caso es de frontal oposición.
+
+"No nos dejemos engañar" Concibe la circulación de información contraria a sus creencias como un engaño  
+
 Se vale de exclamaciones al comienzo de sus mensaje.
 Es alguien con una comunicación marcamente emocional; siendo más específicos, cabría decir que tuitea por indignación.
+
+# Validación de las fake news por un usuario de Twitter
+
+¡Es cierto! Además, yo, como cristiano, le digo NO a la vacuna. Cuando empiezas a cambiar la genética de una persona, te metes en terreno espiritual y terreno peligroso
+
+Condición de verdad mayor al pasar de un usuario anónimo a un usuario con nombre y apellido, y foto de perfil.
+
+# Fuentes de información alternativas
+
+"en la página David contra Coviat, con información para católicos, se afirma que las personas que se vacunan se someten a un experimento"
+
+# Dictomía verdad religiosa vs. verdad científica
+
+Posicionamiento religioso absoluto.
+
+"Yo, como cristiano, le digo NO a la vacuna"
+
+
+"Cuando empiezas a cambiar la genética de una persona, te metes en terreno espiritual y terreno peligroso", dice uno de los fragmentos del bot.
 
 # Reflexión final
 
@@ -46,3 +78,8 @@ Interacción entre los discursos que activa el Generador de Teorías de Conspira
 Entrecruzamiento entre el razonamiento distópico y el razonamiento antivacuna de corte religioso en el que el primero alimenta al segundo, es su punto de partida.
 
 El 
+
+
+
+
+
