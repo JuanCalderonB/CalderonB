@@ -2,15 +2,20 @@
 
 En el artículo "Antivacunas: lo que he aprendido al debatir con ellos" (https://fundaciongabo.org/es/etica-periodistica/blogs/antivacunas-lo-que-he-aprendido-al-debatir-con-ellos), publicado en la web de la Fundación Gabo, el periodista Hernán Restrepo comparte observaciones acerca de lo que ha sido su interacción con colectivos e inviduos antivacunas, y da cuenta de que estos no conforman un grupo uniforme, sino un grupo heterogéneo. En ese sentido, a partir de su experiencia, él ha identificado tres tipos de individuos antivacunas, que son el sobreinformado, el libertario y el religioso. En esta ocasión cabe ocuparse del religioso.
 
-Se ha comentado anteriormente que los replier bots expanden la narrativa que crean los generadores. Este bot específico se encargará de retuitear con comentario los textos del Generador de Teorías de Conspiración. Como se ha comentado en el texto que presenta estas piezas literarias que funcionan en Twitter, se busca que estas identidades digitales tengan características propias. A esta se le ha agregado un foto aleatoria de This Person Doesn't Exist y el nombre de Bernardo de Campos siguiendo la remezcla de nombres de los heterónimos de Fernando Pessoa; en este caso se ha tomado el nombre Bernardo del heterónimo Bernardo Soares y el apellido De Campos de Álvaro de Campos. No obstante, este proceso de caracterización va más allá del nombre. Los bots son identidades digitales, entidades autoriales ficcionales que hablan desde un lugar de enunciación específico y que cuentan con un perfil en la red social Twitter. Como parte de la exteriorización de su identidad, publican sus pensamientos, reflexiones u opiniones en tuits. 
+Se ha comentado anteriormente que los replier bots expanden la narrativa que crean los generadores. Este bot específico se encargará de retuitear con comentario los textos del Generador de Teorías de Conspiración para crear interacciones entre el discurso religioso y el discurso conspirativo en una suerte de razonamiento integrado; esto lo explicaremos en la subsiguiente sección. Como se ha comentado en el texto "Replier bots", que presenta estas piezas literarias que funcionan en Twitter, se busca que estas identidades digitales tengan características propias. A esta se le ha agregado un foto aleatoria de This Person Doesn't Exist y el nombre de Bernardo de Campos siguiendo la remezcla de nombres de los heterónimos de Fernando Pessoa; en este caso se ha tomado el nombre Bernardo del heterónimo Bernardo Soares y el apellido De Campos de aquel que se llama Álvaro de Campos. No obstante, este proceso de caracterización va más allá del nombre. Los bots son identidades digitales, entidades autoriales ficcionales que hablan desde un lugar de enunciación específico y que cuentan con un perfil en la red social Twitter. Como parte de la exteriorización de aquella identidad, publican sus pensamientos, reflexiones u opiniones en tuits. 
 
 # Identidad autorial
 
-Bernardo de Campos es una persona con un discurso antivacunas de corte religioso. Se define como católico y se opone a las vacunas. Como tal, justifica su decisión con versículos de la Biblia, los cuales relaciona con la situación actual de la pandemia. De ese modo, relaciona algún pasaje del Apocalipsis con la imposición de las vacunas obligatorias. Una posible mensaje que tuitearía es "¿qué dice la Biblia sobre la vacuna? Apocalipsis 13, 16: 'E hizo que a todos, pequeños y grandes, ricos y pobres, libres y siervos, se les imprimiese una marca en la mano derecha y en la frente'". 
+Se apuntó en el texto "Replier bots" que para la elaboración de estos se tendría en cuenta un área de interés, un tono de comunicación y un registro lingüístico específicos. Respecto al primer aspecto a tener en cuenta en la construcción de su identidad, este bot simula la identidad de una persona con un discurso antivacunas de corte religioso. Bernardo de Campos se define como católico y se opone a las vacunas. Como tal, justifica su decisión con versículos de la Biblia, los cuales relaciona con la situación actual de la pandemia del nuevo coronavirus. De ese modo, relaciona algún pasaje del Apocalipsis con la imposición de las vacunas obligatorias. Por ejemplo, un posible mensaje que tuitearía es "¿qué dice la Biblia sobre la vacuna? Apocalipsis 13, 16: 'E hizo que a todos, pequeños y grandes, ricos y pobres, libres y siervos, se les imprimiese una marca en la mano derecha y en la frente'". En 
+Como tal, su razonamiento relaciona elementos de naturaleza heterogénea: la vacunación contra un virus que no existía hace un par de años y un texto clásico de la Biblia, escrito hace alrededor de 2000 años. Para ello, lo que hace es interpretar el evento coyuntural a partir del marco de referencia que propone el texto bíblico. En ese sentido, si la Biblia habla de una marca que se imprime a todos en el pasaje del Apocalipsis, esta identidad digital asocia ese pasaje de la narración con la vacunación universal contra el COVID-19. Con todo ello, esta identidad digital es un lector e intérprete intensivo de la Biblia, pero esta lectura llega a ser exaltada y ferviente a tal punto que no admite algún otro marco de referencia; está cerrada en sí misma. Es decir, interpreta los eventos actuales a partir del texto religioso no lo conduce necesariamente a su postura antivacunas, pero esa lectura cerrada que no admite la especificidad del contexto, sí. No es solo un intérprete de la Biblia, sino que su actitud es hiperhermenéutica: no solo hechos espirituales se pueden interpretar a la luz de ella, sino algo tan inédito en términos históricos como la vacunación universal contra un virus nuevo.   
 
+En cuanto a su tono de comunicación, el de Bernardo de Campos es de frontal oposición.
 
+"No nos dejemos engañar" Concibe la circulación de información contraria a sus creencias como un engaño  
 
-Este bot simula la identidad de una persona de inclinación antivacunas por motivos religiosos. 
+Se vale de exclamaciones al comienzo de sus mensaje.
+Es alguien con una comunicación marcamente emocional; siendo más específicos, cabría decir que tuitea por indignación.
+
 
 https://fundaciongabo.org/es/antivacunas
 
@@ -33,12 +38,6 @@ discurso (enfoque) geopolítico
 comunicacional 
 
 
-Tono de comunicación. En su caso es de frontal oposición.
-
-"No nos dejemos engañar" Concibe la circulación de información contraria a sus creencias como un engaño  
-
-Se vale de exclamaciones al comienzo de sus mensaje.
-Es alguien con una comunicación marcamente emocional; siendo más específicos, cabría decir que tuitea por indignación.
 
 
 # Expansión narrativa con el discurso antivacunas religioso
