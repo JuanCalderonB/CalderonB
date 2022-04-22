@@ -10,7 +10,7 @@ Este procedimiento de crear una conversación entre entidades digitales forma pa
 
 Por otro lado, este procedimiento no es solo de distribución, sino también de producción, debido a que los textos que escribirán estos bots son diferentes a aquellos de los generadores. Es más, se busca que los comentarios de los bots guarden, en primer lugar, una relación lógica con el mensaje comentado: se buscará simular que el comentario nace de una reflexión o de un procesamiento del contenido del texto de los generadores, con lo cual se dibuja un razonamiento coherente entre ambas distintas publicaciones. En segundo lugar, se busca trazar una relación sintáctica entre las dos publicaciones, ya que el replier bot aludirá mediante frases o referentes (como 'esto', 'este', 'esta publicación', etc.) directamente a los textos de los generadores. De esta manera se busca producir un encadenamiento coherente y cohesionado entre el texto nuevo del bot y el texto producido con anterioridad por los generadores.  
 
-# Sobre nombres, imágenes y heterónimos
+# Sobre nombres, imágenes y heterónimos en red social
 
 Como se ha planteado, este proyecto busca ir más allá de la producción de textos que sean simulaciones de noticias falsas, y desarrollar también identidades digitales que imiten identidades de personas reales que compartan información falsa. A fin de lograr verosimilitud, se busca trazar al menos un boceto de lo que sería identidad digital con características específicas. Ello para que se procesen e interpreten estas supuestas informaciones falsas desde un lugar específico de enunciación.
 
