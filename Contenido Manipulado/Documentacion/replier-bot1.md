@@ -13,6 +13,25 @@ Los textos del repliet bot comienzan con una exclamación. Una de las opciones e
 
 Con ello, existen dos dimensiones narrativas. La primera es la del relato del generador, en el que se construye una narración al estilo de las fake news. La segunda es la dimensión de la conversación de una persona particular, Bernardo de Campos, en su conversación de Twitter. El marco narrativo es el transcurrir de la vida de esta identidad ficcional. eEn esta vida, al igual que en la vida de los personas reales, hay una discusión en torno a la verdad. Y lo que sucede es que este autor utiliza el relato del generador para incrustarlo en su conversación personal. Lo hace parte de su compartamiento digital. Este texto del generado habita ahora en el feed de Bernardo de Campos. Y, además, es el punto de partida para un razonamiento de él. Es decir, el relato del generador es incrustado/insertado en un razonamiento de un sujeto particular en la esfera de Twitter.    
 
+Toma el texto del Generador de teorías de conspiración como una confirmación de lo que cree. Así lo plantea la frase "¡Se confirma lo que todos sabemos!". COn esta, además, se expres que se considera parte de una colectividad: . 
+
+Utiliza un léxico científico: las 'vacunas' Pfizer, Moderna y J&J son terapias transgénicas; sin embargo, no lo ultiza bajo una lógica científica.
+Utiliza el lenguaje científico, léxico especializado, como fuente de autoridad.
+
+# "Ponerse el chip y no entrar al cielo'
+
+"en las profecías bíblicas se habla del Nuevo Orden Mundial. Según las escrituras religiosas, el coronavirus son solo las riendas para manipularnos, desestabilizarnos, crear pánico, odio"
+
+Además, quieren ponernos chips dentro de nosotros, quieren hacer todo tipo de cosas, para que no podamos cruzar las puertas del Cielo
+
+Ensamblar teorías de la conspiración y el discurso cristiano
+
+
+"¿qué dice la Biblia sobre la vacuna? Apocalipsis 13, 16: 'E hizo que a todos, pequeños y grandes, ricos y pobres, libres y siervos, se les imprimiese una marca en la mano derecha y en la frente'"
+
+
+
+
 
 # Identidad autorial
 
@@ -69,6 +88,16 @@ Posicionamiento religioso absoluto.
 
 
 "Cuando empiezas a cambiar la genética de una persona, te metes en terreno espiritual y terreno peligroso", dice uno de los fragmentos del bot.
+
+
+"David contra Coviat, página con información para católicos, dice que para las vacunas COVID no se han hecho pruebas de seguridad en animales"
+Conoce el procedimiento de desarrollo de las vacunas, pero niega los hechos referentes a la vacuna contra el nuevo coronavirus.
+
+La desinformación de las vacunas en general: "hay muchos niños que se vacunan y se quedan paralíticos, así que cuando nos dicen que la solución a la Covid-19 es una vacuna, yo soy extremadamente cauteloso". 
+
+"Esa es la marca de la BESTIA"
+
+" los cristianos no nos metemos con terapias génicas, porque Dios nos hizo a su imagen y semejanza. ¡NO a la vacuna!"
 
 # Reflexión final
 
