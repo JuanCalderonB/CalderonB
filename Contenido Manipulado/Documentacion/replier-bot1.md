@@ -2,10 +2,11 @@
 
 En el artículo "Antivacunas: lo que he aprendido al debatir con ellos" (https://fundaciongabo.org/es/etica-periodistica/blogs/antivacunas-lo-que-he-aprendido-al-debatir-con-ellos), publicado en la web de la Fundación Gabo, el periodista Hernán Restrepo comparte observaciones acerca de lo que ha sido su interacción con colectivos e inviduos antivacunas, y da cuenta de que estos no conforman un grupo uniforme, sino un grupo heterogéneo. En ese sentido, a partir de su experiencia, él ha identificado tres tipos de individuos antivacunas, que son el sobreinformado, el libertario y el religioso. En esta ocasión cabe ocuparse del religioso.
 
-Se ha comentado anteriormente que los replier bots expanden la narrativa que crean los generadores. Este bot específico se encargará de retuitear con comentario los textos del Generador de Teorías de Conspiración para crear interacciones entre el discurso religioso y el discurso conspirativo en una suerte de razonamiento integrado; esto lo explicaremos en la tercera sección de este texto. Como se ha comentado en el texto "Replier bots", que presenta estas piezas literarias que funcionan en Twitter, se busca que estas identidades digitales tengan características propias. A esta se le ha agregado un foto aleatoria de This Person Doesn't Exist y el nombre de Bernardo de Campos siguiendo la remezcla de nombres de los heterónimos de Fernando Pessoa; en este caso se ha tomado el nombre Bernardo del heterónimo Bernardo Soares y el apellido De Campos de aquel que se llama Álvaro de Campos. No obstante, este proceso de caracterización va más allá del nombre. Los bots son identidades digitales, entidades autoriales ficcionales que hablan desde un lugar de enunciación específico y que cuentan con un perfil en la red social Twitter. Como parte de la exteriorización de aquella identidad, publican mensajes que manifiestan su posicionamiento frente a determinados temas en tuits. 
-
+Dado que existen distintos tipos de subjetividades antivacunas, cabe resaltar que esta pieza busca explorar el discurso antivacunas en su versión religiosa, no el discurso religioso en sí. No tendría por qué haber un relación directa o necesaria entre la práctica religiosa y la postura en contra de las vacunas. Sin embargo, cabe tomar en cuenta que tales sistemas de creencias interactúan en la realidad. El papa Franscico, en un intervención al recibir al Consorcio Internacional de Medios de Comunicación Católicos, Catholic Factchecking, el 9 de febrero de 2022, expresó su preocupación por la desinformación entre la comunidad católica (https://fundaciongabo.org/es/etica-periodistica/noticias/papa-francisco-preocupado-por-la-desinformacion-sobre-vacunas-entre). Del mismo modo, en setiembre de 2021, Francisco manfiestó sentirse desconcertado por la cantidad de personas en la Iglesia que se han negado a vacunarse; "incluso en el Colegio Cardenalicio hay algunos negacionistas de las vacunas", dijo en relación a una autoridad religiosa que no fue vacunada y fue hospitalizada tras un cuadro severo de coronavirus (https://cnnespanol.cnn.com/2021/09/15/papa-desconcertado-vacunacion-reuters/). Por todo ello, esta obra se refiere a este discurso como el discurso antivacunas en su versión religiosa y no el discurso religioso antivacunas, porque entiende que la comunidad católica es heterogénea y no habría una relación necesaria entre un sistema de creencias y otro. Además, interesa a este proyecto estudiar específicamente como fenómeno social el rechazo a las vacunas, el cual es un discurso proteico que en alguna de sus vertienetes se interrelaciona con el discurso religioso, pero no se agota en ella.   
 
 # Expansión narrativa y conversación digital
+
+Se ha comentado anteriormente que los replier bots expanden la narrativa que crean los generadores. Este bot específico se encargará de retuitear con comentario los textos del Generador de Teorías de Conspiración para crear interacciones entre el discurso religioso y el discurso conspirativo en una suerte de razonamiento integrado; esto lo explicaremos en la segunda sección de este texto. Como se ha comentado en el texto "Replier bots", que presenta estas piezas literarias que funcionan en Twitter, se busca que estas identidades digitales tengan características propias. A esta se le ha agregado un foto aleatoria de This Person Doesn't Exist y el nombre de Bernardo de Campos siguiendo la remezcla de nombres de los heterónimos de Fernando Pessoa; en este caso se ha tomado el nombre Bernardo del heterónimo Bernardo Soares y el apellido De Campos de aquel que se llama Álvaro de Campos. No obstante, este proceso de caracterización va más allá del nombre. Los bots son identidades digitales, entidades autoriales ficcionales que hablan desde un lugar de enunciación específico y que cuentan con un perfil en la red social Twitter. Como parte de la exteriorización de aquella identidad, publican mensajes que manifiestan su posicionamiento frente a determinados temas en tuits. 
 
 Desde un punto de vista narratológico, los relatos del Generador de Teorías de Conspiración son expandidos por las respuestas que genera el replier bot. Por ejemplo, con la frase "¡Ya no se puede ocultar más!", con la que comienza uno de sus posibles tuits, se hace referencia al texto que produce el Generador de Teorías de Conspiración. A partir de ello, es posible identificar dos dimensiones narrativas. La primera es la del relato del generador, en el que se construye una narración que simula ser una fake news. Es la dimensión de los conspiradores, de las acciones de opresión de los poderosos y de las acciones de los héroes frente a estos; al fin y al cabo, la dimensión del relato distópico. La segunda es la dimensión de la conversación de una identidad particular, Bernardo de Campos, desde su perfil propio de Twitter. El marco narrativo es la discusión que sostiene esta identidad ficcional con otros usuarios de la red social en torno a la verdad de los hechos de la pandemia. De tal modo, el replier incrusta el relato del generador en sus publicaciones personales. Se apropia de él y amplifica su mensaje con un comentario. Lo hace parte de su comportamiento digital. El mensaje del generador está disponible a través de él, que lo ha canalizado hacia su historial de publicaciones. 
 Además, el texto del generador es el punto de partida para una manfiestación propia de su identidad. Es decir, el relato del generador es insertado en un razonamiento producido a partir del lugar de enunciación específico de De Campos. Este razonamiento incluirá componentes identitarios particulares de De Campos. 
@@ -14,91 +15,21 @@ Además, el texto del generador es el punto de partida para una manfiestación p
 
 Se apuntó en el texto "Replier bots" que para la elaboración de estos se tendría en cuenta un área de interés, un tono de comunicación y un registro lingüístico específicos. Respecto al primer aspecto indicado, este bot simula la identidad de una persona con un discurso antivacunas de corte religioso. Bernardo de Campos se define como católico y se opone a las vacunas. Como tal, justifica su decisión con versículos de la Biblia, los cuales relaciona con la situación actual de la pandemia del nuevo coronavirus. De ese modo, relaciona algún pasaje del Apocalipsis con la imposición de la vacunación contra el nuevo coronavirus emprendida por distintos gobiernos a lo largo del planeta. Por ejemplo, un posible mensaje que tuitearía es "¿qué dice la Biblia sobre la vacuna? Apocalipsis 13, 16: 'E hizo que a todos, pequeños y grandes, ricos y pobres, libres y siervos, se les imprimiese una marca en la mano derecha y en la frente'". Como tal, su razonamiento relaciona elementos de naturaleza heterogénea: la vacunación contra un virus que no existía hace un par de años y un texto clásico de la Biblia, escrito hace alrededor de 2000 años. Para ello, lo que hace es interpretar el evento coyuntural a partir del marco de referencia que propone el texto bíblico. En ese sentido, si la Biblia habla de una marca que se imprime a todos en el pasaje del Apocalipsis, esta identidad digital asocia ese pasaje de la narración con la vacunación universal contra el COVID-19. 
 
-Con todo ello, esta identidad digital es un lector e intérprete intensivo de la Biblia, pero esta lectura llega a ser exaltada y ferviente a tal punto que no admite algún otro marco de referencia; está cerrada en sí misma. En otras palabras, interpretar los eventos actuales a partir del texto religioso no lo conduce necesariamente a su postura antivacunas, pero esta lectura cerrada que no admite la especificidad del contexto, sí. Interpreta a la luz de la Biblia un evento tan inédito en términos históricos como la vacunación universal contra un virus nuevo. Y a la vez se trata de un fenómeno tan complejo, el cual reduce resaltando su carácter universal sin sopesar debidamente su aporte médico. Cabe decir, entonces, que es este posicionamiento frente a las vacunas el que interactúa con el discurso acientífico, político-partidista y reduccionista del funcionamiento de la sociedad que se encuentra en los textos del Generador de Teorías de la Conspiración. En ese sentido esta pieza, como parte del proyecto Contenido Manipulado, cuyo objetivo es imitar las dinámicas de producción y distribución de la desinformación, busca emular el entrecruzamiento entre el sujeto consumidor/distribuidor, con sus distintos posicionamientos ideológicos, marcos de referencia y luegares de enunciación, y los discursos existentes en el ámbito social. Y con ello dar cuenta de la relación constitutiva entre sujeto y discurso: cómo uno se apropia del otro y lo termina moldeando en el proceso en un dinámica de retroalimentación. 
+Con todo ello, esta identidad digital es un lector e intérprete intensivo de la Biblia, pero esta lectura llega a ser exaltada y ferviente a tal punto que no admite algún otro marco de referencia; está cerrada en sí misma. En otras palabras, interpretar los eventos actuales a partir del texto religioso no lo conduce necesariamente a su postura antivacunas, pero esta lectura cerrada que no admite la especificidad del contexto, sí. Interpreta a la luz de la Biblia un evento tan inédito en términos históricos como la vacunación universal contra un virus nuevo. Y a la vez se trata de un fenómeno tan complejo, el cual reduce resaltando su carácter universal sin sopesar debidamente su aporte médico. Cabe decir, entonces, que es este posicionamiento frente a las vacunas el que interactúa con el discurso acientífico, político-partidista y reduccionista del funcionamiento de la sociedad que se encuentra en los textos del Generador de Teorías de la Conspiración. En ese sentido esta pieza, como parte del proyecto Contenido Manipulado, cuyo objetivo es imitar las dinámicas de producción y distribución de la desinformación, busca emular el entrecruzamiento entre el sujeto consumidor/distribuidor, con sus distintos posicionamientos ideológicos, marcos de referencia y luegares de enunciación, y los discursos existentes en el ámbito social.  
 
-Dicho todo esto, es importante resaltar que esta pieza busca explorar el discurso antivacunas en su versión religiosa, no el discurso religioso en sí. No tendría por qué haber un relación directa o necesaria entre la práctica religiosa y la postura en contra de las vacunas. Sin embargo, cabe tomar en cuenta que tales sistemas de creencias interactúan en la realidad. En las marchas antivacunas que han sido cubiertos por los medios de comunicación es posible encontrar mensajes de corte religioso en las pancartas. (Sobre esta interacción de distintos discursos en las pancartas de marchas antivcaunas se ha desarrollado una pieza; se puede consultar aquí). Además, el papa Franscico, en un intervención al recibir al Consorcio Internacional de Medios de Comunicación Católicos, Catholic Factchecking, el 9 de febrero de 2022, expresó su preocupación por la desinformación entre la comunidad católica (https://fundaciongabo.org/es/etica-periodistica/noticias/papa-francisco-preocupado-por-la-desinformacion-sobre-vacunas-entre). Del mismo modo, en setiembre de 2021, Francisco manfiestó sentirse desconcertado por la cantidad de personas en la Iglesia que se han negado a vacunarse; "incluso en el Colegio Cardenalicio hay algunos negacionistas de las vacunas", dijo (https://cnnespanol.cnn.com/2021/09/15/papa-desconcertado-vacunacion-reuters/).
+# Validación de las fake news y creación de cámaras de resonancia
+
+Cabe decir también que, en el plano de comunicativo, esta interacción entre este replier bot y el generador genera una validación del discurso del segundo. Uno de los posibles tuits de este bot dice: "¡Es cierto! Además, yo, como cristiano, le digo NO a la vacuna. Cuando empiezas a cambiar la genética de una persona, te metes en terreno espiritual y terreno peligroso". Observando este mensaje, el discurso del generador es considerado cierto por un usuario de Twitter, Bernardo de Campos; entonces, no solo se otorga mayor visibilidad a este discurso, sino que le otorga mayor condición de verdad debido a que no solo se trata del mensaje de un usuario anónimo sino de la publicación de un usuario con nombre y apellido, y foto de perfil. Tal discurso es más creíble ahora porque también lo dice Bernardo de Campos.  
+
+Del mismo modo, el razonamiento que esta persona traza puede ser adoptado por un gran número de usuarios de la red social. Si ello sucediera, cabe la posibilidad de posicionar uno de los temas de conversación posibles (por ejemplo, que cambiar vacunarse es cambiar la genética de una persona y que eso es terreno peligroso) por encima de otros que están siendo discutidos en un determinado momento; podría generar una tendencia, un tópico del cual habla un gran número de usuarios de la red social. Ello genera mayor visibilidad y el tema puede ser acogido por algún usuario con el mismo marco de referencia que De Campos. De suceder ello, se podría gestar lo que se denomina una cámara de resonancia: los usuarios antivacunas de credo católico tomarían tal tema de discusión e interactuarían entre ellos mismos y en contra de aquellos que expresen una postura contraria, lo que traería como consecuencia un reforzamiento de su sistema de creencias al conformarse -a partir de las interacciones- un grupo cohesionado que valida positivamente la versión de un tema. Eso es una cámara de resonancia, un entorno cerrado dentro de la misma red social donde un discurso se retroalimenta y crea un efecto de verdad. Es decir, a partir de un gran número de interacciones consecuentes con un sistema de creencias, un discurso adquiere una mayor condición de verdad. 
+
+Ello es posible debido a que la red social no puede eliminar (aunque Twitter, y también Facebook e Instagram, ha emprendido una iniciativa de etiquetado de ciertas publicaciones como cuestionables o no veraces) mensajes y, al mismo tiempo, como lo plantea Eli Pariser en "The Filter Bubble. What The Internet is Hiding From You",  busca mostrar más contenido a los usuarios que les pueda agradar. Es así que este bot busca emular una identidad digital que, como muchas otras posibles,  potencialmente en sus interacciones podrían genear, dadas las condiciones técnicas mismas de la red social, a partir de sus interacciones, un efecto de verdad, que -en este caso específico- podría llegar a posicionar los mensajes del generador como verdaderos para otros usuarios con un marco de referencia compartido.   
 
 # Identidad autorial
 
-En cuanto a su tono de comunicación, el de Bernardo de Campos es de frontal oposición. Considera a los textos del Generador de Teorías de Conspiración como portadores de verdad. "¡Por fin sale a la luz la verdad!" es una posibilidad, entre otras del mismo tipo, con que comienzan sus tuits. Aquí lo verdadero es lo que dicen las teorías de la conspiración, que emergen como secretos que son sacados a la luz pública. Así lo propone otra posibilidad para comenzar sus tuits: "¡Ahora ya se revelan los secretos!". Cabe comentar aquí, por sus signos de exclamación, que escribe desde la emocionalidad y la exaltación. Ello porque considera que la circulación de mensajes que no se ajustan a sus creencias como engaños. Por lo cual, se opone frontalmente a 'ser engañado'; dice otro de estos comienzos "¡Nos habían engañado por tanto tiempo!". Exaltación y confrontación son los dos componentes claves de su tono de comunicación.
+En cuanto a tono de comunicación, el de Bernardo de Campos es de frontal oposición. Considera a los textos del Generador de Teorías de Conspiración como portadores de verdad. "¡Por fin sale a la luz la verdad!" es una posibilidad, entre otras del mismo tipo, con que comienzan sus tuits. Aquí lo que dicen las teorías de la conspiración es proclamado como informaciones ocultas que emergen a la luz pública. Así lo propone otra posibilidad para comenzar sus tuits: "¡Ahora ya se revelan los secretos!". Cabe comentar aquí, por sus signos de exclamación, que escribe con una indignación por momentos cercana al enfurecimiento al considerar que lo quieren engañar al encontrar en circulación contraria a sus creencias. Dice otro de estos comienzos "¡Nos habían engañado por tanto tiempo!". Exaltación y confrontación son los dos componentes claves de su tono de comunicación.
 
-"No nos dejemos engañar" Concibe la circulación de información contraria a sus creencias como un engaño  
-
-Se vale de exclamaciones al comienzo de sus mensaje.
-Es alguien con una comunicación marcamente emocional; siendo más específicos, cabría decir que tuitea por indignación.
-
-Además, utiliza un léxico científico, como en la posible frase "las 'vacunas' Pfizer, Moderna y J&J son terapias transgénicas"; sin embargo, no lo ultiza bajo una lógica científica. En ello es posible identificar un recurso discursivo existente en las dinámicas de la desinformación que se ha especificado en los objetivos de este proyecto -LINK-: el uso del lenguaje científico o especializado como fuente de autoridad, pese a que lo descrito a partir de este sea inexacto o manifiestamente erróneo.
-
-
-
-https://fundaciongabo.org/es/antivacunas
-
-
-https://fundaciongabo.org/es/etica-periodistica/blogs/antivacunas-lo-que-he-aprendido-al-debatir-con-ellos
-
-
-https://fundaciongabo.org/es/keywords/movimiento-antivacunas
-
-https://m.facebook.com/fundaciongabo/posts/10161058212962388?locale=he_IL&_rdr
-
-Expansión narrativa del Generador de Teorías de Conspiración
-
-Interacción con el discurso antivacuna religios
-
-Generador de teorías de conspiración: Discurso político, moral, científico, económico, 
-discurso (enfoque) geopolítico
-
-comunicacional 
-
-    
-
-Toma el texto del Generador de teorías de conspiración como una confirmación de lo que cree. Así lo plantea la frase "¡Se confirma lo que todos sabemos!". COn esta, además, se expres que se considera parte de una colectividad: . 
-
-Este texto del generado habita ahora el feed de Bernardo de Campos.
-
-# "Ponerse el chip y no entrar al cielo'
-
-"en las profecías bíblicas se habla del Nuevo Orden Mundial. Según las escrituras religiosas, el coronavirus son solo las riendas para manipularnos, desestabilizarnos, crear pánico, odio"
-
-Además, quieren ponernos chips dentro de nosotros, quieren hacer todo tipo de cosas, para que no podamos cruzar las puertas del Cielo
-
-Ensamblar teorías de la conspiración y el discurso cristiano
-
-
-
-
-
-
-
-
-# Validación de las fake news por un usuario de Twitter
-
-¡Es cierto! Además, yo, como cristiano, le digo NO a la vacuna. Cuando empiezas a cambiar la genética de una persona, te metes en terreno espiritual y terreno peligroso
-
-Condición de verdad mayor al pasar de un usuario anónimo a un usuario con nombre y apellido, y foto de perfil.
-
-# Fuentes de información alternativas
-
-"en la página David contra Coviat, con información para católicos, se afirma que las personas que se vacunan se someten a un experimento"
-
-# Dictomía verdad religiosa vs. verdad científica
-
-Posicionamiento religioso absoluto.
-
-"Yo, como cristiano, le digo NO a la vacuna"
-
-
-"Cuando empiezas a cambiar la genética de una persona, te metes en terreno espiritual y terreno peligroso", dice uno de los fragmentos del bot.
-
-
-"David contra Coviat, página con información para católicos, dice que para las vacunas COVID no se han hecho pruebas de seguridad en animales"
-Conoce el procedimiento de desarrollo de las vacunas, pero niega los hechos referentes a la vacuna contra el nuevo coronavirus.
-
-La desinformación de las vacunas en general: "hay muchos niños que se vacunan y se quedan paralíticos, así que cuando nos dicen que la solución a la Covid-19 es una vacuna, yo soy extremadamente cauteloso". 
-
-"Esa es la marca de la BESTIA"
-
-" los cristianos no nos metemos con terapias génicas, porque Dios nos hizo a su imagen y semejanza. ¡NO a la vacuna!"
+Además, utiliza un léxico científico, como en la posible frase "las 'vacunas' Pfizer, Moderna y J&J son terapias transgénicas"; sin embargo, no lo ultiza bajo una lógica científica. En ello es posible identificar un recurso discursivo existente en las dinámicas de la desinformación que se ha especificado en los objetivos de este proyecto -LINK-: el uso del lenguaje científico o especializado como recurso de construcción de autoridad, pese a que lo descrito a partir de este sea inexacto o manifiestamente infundado.
 
 # Reflexión final
 
@@ -110,7 +41,8 @@ Entrecruzamiento entre el razonamiento distópico y el razonamiento antivacuna d
 El 
 
 
-
+Y con ello dar cuenta de la relación constitutiva entre sujeto y discurso: cómo uno se apropia del otro y lo termina moldeando en el proceso en un dinámica de retroalimentación.
+Cómo los sujetos conforman discursos y cómo los discursos conforman sujetos.
 
 conciencia crítica de la tecnología de responder
 Se usa para criticarla
