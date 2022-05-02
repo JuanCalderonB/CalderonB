@@ -5,15 +5,14 @@ Sobre el texto explicativo, el cofundador del OuLiPo (Taller de Literatura Poten
 
 # La obra como "máquina de fabricar poemas"
 
-Queneau propone que su libro es "una especie de máquina de fabricar poemas en número limitado", aunque cabe decir que, si bien limitado, sí se trata de un número  inmensamente elevado en relación con lo que una persona puede llegar a leer en la vida. Dicho esto, vale concentrarse en la afirmación que considera al libro como una máquina, como contenedor de unidades que posibilitan un proceso, más que un contendedor de un producto específico. Al entender al libro como máquina, Queneau no solo ofrecer el lector un conjunto de unidades textuales posibles de ser ensambladas para generar un producto, sino que las dispone en una forma en la que es posible el procedimiento de ensamblaje. Con ello, el libro no solo es una impresión, el soporte de un texto, sino también un artefacto mediante el cual se pueden realizar operaciones a través de las cuales se produce diversos textos.   
+Interesan de esta obra tres aspectos puntuales. El primero es su carácter de máquina. Queneau propone, en el artículo citado, que su libro es "una especie de máquina de fabricar poemas en número limitado", aunque cabe decir que, si bien limitado, se trata de un número inmensamente elevado en relación con lo que una persona puede llegar a leer en un tiempo de vida. Dicho esto, vale concentrarse en la afirmación que considera al libro como una máquina, como contenedor de unidades que posibilitan un proceso, más que un contendedor de un producto específico. Al entender al libro como máquina, Queneau no solo ofrece al lector un conjunto de unidades textuales posibles de ser ensambladas para generar un producto, sino que las dispone en una forma en la que es posible el procedimiento de ensamblaje. Con ello, el libro no solo es una impresión, el soporte de un texto, sino también un artefacto mediante el cual se pueden realizar operaciones a través de las cuales se produce diversos textos.   
+Relacionado con ello, el segundo aspecto de interés es su carácter de interfaz, que media entre los textos posibles y el lector. Es decir, por una parte se encuentra la concepción lingüística de los poemas, la construcción de unidades intercambiables entre sí. Respecto a este abunda Queneau en su texto. Sin embargo, no hay que confundir el proceso combinatorio con la forma material que lo hace posible; en otras palabras cómo se traduce esa idea en un materialización determinada. Dentro de esta concepción de libro como mediador de una experiencia de lectura, se encuentra que la disposición del libro explica su funcionamiento. Por un lado, el título del libro refiere la cifra total de posibles combinaciones de poemas. El lector es informado de que no se encuentra ante un poema sino ante múltiples. Por otro, tal título refiere también que los productos son poemas. De hecho, incluso son sonetos, con lo cual las unidades-verso tienen las mismas características de longitud silábica y se emparentan con el resto del texto no solo por desarrollar un mismo tema, sino por la presencia de una determinada rima. Todo ello suma información para construir una determinada relación con la obra. Por último, las cintas que contienen los poemas son parte de una determinada página, con lo cual esta mediación del libro se apoya en la dinámica de lectura tradicional. Es decir, como interfaz, el libro no oculta ningún componente o etapa del proceso de producción al lector. El libro en sí contiene el manual para leerlo.  
 
-Interesan de esta obra dos aspectos puntuales. El primero es su carácter interactivo respecto al texto.  
+El tercer aspecto relevante es su carácter interactivo. El proceso de producción es completado por el lector, que genera sentido al escoger determinado ordenamiento de los versos para generar un poema distinto cada vez. Cabría decir que quien activa esa potencialidad de textos de la obra es el lector, quien se relaciona con la máquina y la interfaz que es libro. Este participa en la generación de sentido al construir poemas mediante el uso de los mecanismos de la obra. 
 
-Esta obra resulta relevante para el presente proyecto debido a que se enmarca dentro de la tradición de la poesía combinatoria. Cuando el usuario interactúa con los generadores, se ejecuta, a partir de un pequeño programa informático, permutaciones para combinar los textos de noticias falsas sobre el COVID-19. Este proceso produce, al igual que el libro de Queneau, una potencialidad de textos a partir de un conjunto limitado de unidades.
+Esta obra resulta relevante para el presente proyecto debido a que COVID Poetry se enmarca dentro de la tradición de la poesía combinatoria. Cuando el usuario interactúa con la interfaz web, se ejecuta, a partir de un pequeño programa informático, permutaciones para combinar los textos de noticias falsas sobre el COVID-19. Este proceso produce, al igual que el libro de Queneau, una potencialidad de textos a partir de un conjunto limitado de unidades. Este mecanismo se aplica, con algunos ligeros cambios, en todas las piezas de Contenido Manipulado.
 
-El proceso de ensamblado en el caso de Queneau se da forma manual, por el mismo lector, manipulando las hojas del libro. La manipulación de las unidades textuales dispuestas de forma independiente para su combinación se realiza a partir de la interacción con la interfaz del sitio web.  
-
-# La obra interactiva
+Cabría decir también que el proceso de ensamblado en el caso de Queneau se da forma manual, por parte del mismo lector, manipulando las hojas del libro. En el caso de COVID-Poetry, la manipulación de las unidades textuales dispuestas de forma independiente para su combinación se realiza a partir de la interacción con la interfaz del sitio web. Vale decir aquí que la gran cantidad de fake news que se han creado y distribuido a lo largo de casi dos años de pandemia han hecho que la cantidad de textos incluidos sea bastante elevada. La interfaz es más opaca en el caso de la pieza de literatura electrónica en cuanto solo se pulsa un botón y aparece otro texto nuevo. El usuario común podría preguntarse cómo se producen estos textos, y no tendría acceso a las unidades textuales independientes que se están combinando, a diferencia del caso de Queneau. Tampoco asiste al proceso de ensamblaje de las unidades textuales, el cual se lleva a cabo de manera automática. Lo único que debe hacer es hacer clic y el poema le es servido por la pieza. Y     
 
 # Buscar narrar la pandemia en tres versos
 
@@ -21,5 +20,19 @@ Esta pieza busca conectar dos momentos concretos de la pandemia. Por un lado, bu
 
 En medio, en el segundo verso, se han incluido textos de fake news de carácter pseudocientífico, de supuestos remedios para curarse o para prevenir el contagio del virus. 
 
+El carácter narrativo y poético del haiku. Tres versos distintos que cumplen cada uno una función distinta respecto al otro.  
+
 # El orden gramatical
 
+Introductorio: Primer verso
+
+Adversativo: Segundo verso
+
+Tercer verso: introduce un nuevo conflicto.
+
+De esa manera la narración de la pandemia que se ofrece al lector se propone irresuelta, con el conflicto de las consecuencias terribles de las vacunas todavía abierto.
+
+
+# Reflexión final
+
+Este proyecto busca exponer un razonamiento contradictorio de las fake news para mostrar su heterogeneidad y multidireccionalidad. Es decir, dentro de las fake news, es posible encontrar algunos mensajes que niegan la existencia de un virus y, asimismo, encontrar también ifnroamciones que indican que la enfermedad del COVID-19 se puede curar siguiendo un determinado tratamiento. Esta pieza busca exponer el carácter complejo de ese fenómeno a partir de la interacción de textos de distinta natuealeza, unidos a partir de que han sido clasificados como falsos por los fact-checkers. 
