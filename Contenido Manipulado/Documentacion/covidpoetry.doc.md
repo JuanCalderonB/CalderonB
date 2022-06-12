@@ -46,6 +46,17 @@ El selective remix, que se define como “adding or subtracting material from th
 
 De esa manera la narración de la pandemia que se ofrece al lector se propone irresuelta, con el conflicto de las consecuencias terribles de las vacunas todavía abierto.
 
+Bourriaud: reprogramar materiales de la cultura que encuentren disponibles
+
+
+trabajar con objetos que ya están circulando en el mercado cultural, es decir, ya informados por otros
+
+EDITAR De esta afirmación, este proyecto resalta la idea del quehacer artístico como una toma de conciencia de los protocolos de uso subyacentes en la producción cultural y una investigación de sus estructuras formales. En nuestro caso específico, de las noticias falsas sobre el nuevo coronavirus, con lo cual se busca entender sus operaciones de producción en el terreno lingüístico. 
+
+imitación subversiva 
+uso artístico del mundo
+guerra jurídica de los signos
+
 # Buscar narrar la pandemia en tres versos
 
 Esta pieza busca conectar dos momentos concretos de la pandemia. Por un lado, busca presentar un conjunto de fake news relacionadas con el origen y el desarrollo de la pandemia; es decir, con la aparición del virus y su expansión a lo largo del planeta a lo largo de más de un año y medio. Esto incluirá algunas fake news con supuestas declaraciones de especialistas médicos y sanitarios, de autoridades institucionales o gubernamentales, supuestos reportes de la situación de distintos países, entre otros, lo que incluye aseveraciones sobre la naturaleza de la pandemia, del virus, o de medidas sanitarias como la adopción de mascarillas, entre otras. Ello se plasma en el primer verso del poema. Por otro lado, se agrupó por separado todo lo correspondiente al desarrollo y aplicación de la vacuna contra el nuevo coronavirus, lo cual se ha considerado un punto de quiebre en términos narrativos en cuanto podría significar el comienzo de la etapa final de la pandemia. El tercer verso se concentra en dar cuenta de esto.
